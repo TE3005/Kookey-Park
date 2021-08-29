@@ -19,8 +19,9 @@ namespace DAL
         public string Image { get; set; }
         public int NumberSeets { get; set; }
         public System.TimeSpan DuringUsing { get; set; }
-        public int AgeUser { get; set; }
+        public int AgeUser { get; set;}
         public int Mone { get; set; }
+
         public int NumMinutes { get; set; }
 
         public System.DateTime CurrentTime { get; set; }

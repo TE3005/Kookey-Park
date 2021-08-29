@@ -26,9 +26,9 @@ namespace DAL
         public Nullable<System.TimeSpan> CurrentTime { get; set; }
         public Nullable<System.TimeSpan> TimeVp { get; set; }
     
-        public virtual Rides Rides { get; set; }
         public virtual Users Users { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Timings> Timings { get; set; }
+        public virtual Rides Rides { get; set; }
     }
 }

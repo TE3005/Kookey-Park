@@ -52,8 +52,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RidesLogic.cs" />
-    <Compile Include="StandByLogic.cs" />
-    <Compile Include="Token.cs" />
     <Compile Include="UserRideLogic.cs" />
     <Compile Include="UsersLogic.cs" />
   </ItemGroup>

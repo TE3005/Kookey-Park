@@ -18,5 +18,6 @@ namespace DAL
         public int RideId { get; set; }
         public System.TimeSpan TimeStart { get; set; }
         public int Mone { get; set; }
+    
     }
 }

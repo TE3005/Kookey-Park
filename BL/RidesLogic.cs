@@ -30,7 +30,7 @@ namespace BL
             foreach (var ride in rides)
             {
                 TimeSpan t = new TimeSpan();
-                DAL.Rides rideNumberSeets = DAL.RidesDal.getNumberSeetsToRide(ride.RideId);
+                DAL.Rides rideNumberSeets = DAL.RidesDal.getRide(ride.RideId);
                 int numberSeets = ride.NumberSeets;                
                 double secondsToAdd = DAL.RidesDal.SecondsToWaitForRide(Convert.RideConvert.ConvertRideToDAL(ride));
                 t = TimeSpan.FromSeconds(secondsToAdd);
@@ -50,9 +50,9 @@ namespace BL
             foreach (var ride in rides)
             {
                 TimeSpan t = new TimeSpan();
-                DAL.Rides rideNumberSeets = DAL.RidesDal.getNumberSeetsToRide(ride.RideId);
+                DAL.Rides rideNumberSeets = DAL.RidesDal.getRide(ride.RideId);
                 int numberSeets = ride.NumberSeets;
-                double secondsToAdd = DAL.RidesDal.SecondsToWaitForRideForAllRides(Convert.RideConvert.ConvertRideToDAL(ride));
+                double secondsToAdd = DAL.RidesDal.SecondsToWaitForRide2(Convert.RideConvert.ConvertRideToDAL(ride));
                 t = TimeSpan.FromSeconds(secondsToAdd);
                 listTime.Add(t);
             }

@@ -17,9 +17,7 @@ namespace DAL
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Users()
         {
-            this.Users1 = new HashSet<Users>();
             this.UserRide = new HashSet<UserRide>();
-            this.StandBy = new HashSet<StandBy>();
         }
     
         public int UserId { get; set; }
@@ -31,11 +29,9 @@ namespace DAL
         public int Age { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Users> Users1 { get; set; }
-        public virtual Users Users2 { get; set; }
+
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<UserRide> UserRide { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<StandBy> StandBy { get; set; }
+
     }
 }

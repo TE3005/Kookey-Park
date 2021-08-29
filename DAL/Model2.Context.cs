@@ -25,14 +25,13 @@ namespace DAL
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Parent> Parent { get; set; }
         public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
         public virtual DbSet<Users> Users { get; set; }
-        public virtual DbSet<Rides> Rides { get; set; }
         public virtual DbSet<UserRide> UserRide { get; set; }
-        public virtual DbSet<TimeRide> TimeRide { get; set; }
         public virtual DbSet<StandBy> StandBy { get; set; }
         public virtual DbSet<Timings> Timings { get; set; }
         public virtual DbSet<RidesVp> RidesVp { get; set; }
+        public virtual DbSet<Rides> Rides { get; set; }
+        public virtual DbSet<TimeRide> TimeRide { get; set; }
     }
 }

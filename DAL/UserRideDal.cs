@@ -31,16 +31,16 @@ namespace DAL
             try
             {
                 using (Amusement_ParkEntities2 park = new Amusement_ParkEntities2())
-                { 
+                {
                     foreach (var item in park.UserRide)
                     {
-                      
+
                         //todo add to userRides the children of this user
-                            if (user.UserId == item.UserId )
-                            {
-                                userRides.Add(item);
-                            }
-                       
+                        if (user.UserId == item.UserId)
+                        {
+                            userRides.Add(item);
+                        }
+
                     }
                     return userRides;
                 }
@@ -70,13 +70,21 @@ namespace DAL
 
         }
 
-        public static void deleteUserRide2(UserRide u)
+
+        public static void deleteUserRide(UserRide u)
         {
             try
             {
                 using (Amusement_ParkEntities2 park = new Amusement_ParkEntities2())
                 {
 
+                    foreach (var item in park.TimeRide)
+                    {
+                        if (item.RideId == u.RideId && item.TimeStart == u.CurrentTime)
+                        {
+                            item.Mone--;
+                        }
+                    }
                     foreach (var i in park.UserRide)
                     {
                         if (i.UserRideId == u.UserRideId)
@@ -97,56 +105,22 @@ namespace DAL
             }
 
         }
-        public static void deleteUserRide(UserRide u)
-        {
-            try
-            {
-                using (Amusement_ParkEntities2 park = new Amusement_ParkEntities2())
-                {
-                   
-                    foreach (var item in park.TimeRide)
-                    {
-                        if (item.RideId == u.RideId && item.TimeStart == u.CurrentTime)
-                        {
-                            item.Mone--;
-                        }
-                    }
-                    foreach (var i in park.UserRide)
-                    {
-                        if(i.UserRideId==u.UserRideId)
-                        {
-                            park.UserRide.Remove(i);
-                           
-                            break;
-                        }
-                    }
-                    park.SaveChanges();
-                   
-                }
-
-            }
-            catch (Exception e)
-            {
-                return;
-            }
-
-        }
-        public static int getMamtinimFor(int rideId)
+        public static int getWaitingForRide(int rideId)
         {
 
             try
             {
-                int mamtinim = 0;
+                int waiting = 0;
                 using (Amusement_ParkEntities2 park = new Amusement_ParkEntities2())
                 {
                     foreach (var item in park.UserRide)
                     {
                         if (item.RideId == rideId)
                         {
-                            mamtinim++;
+                            waiting++;
                         }
                     }
-                    return mamtinim;
+                    return waiting;
                 }
 
             }
@@ -156,7 +130,7 @@ namespace DAL
             }
 
         }
-        public static void upMoneForTimeRide(int RideId,TimeSpan time,int sumToUp)
+        public static void upMoneForTimeRide(int RideId, TimeSpan time, int sumToUp)
         {
             try
             {
@@ -164,18 +138,18 @@ namespace DAL
                 {
                     foreach (var item in park.TimeRide)
                     {
-                      if(item.RideId==RideId && item.TimeStart==time)
+                        if (item.RideId == RideId && item.TimeStart == time)
                         {
                             item.Mone += sumToUp;
                         }
                     }
                     park.SaveChanges();
-                   
+
                 }
             }
-            catch(Exception e)
+            catch (Exception e)
             {
-               
+
             }
         }
         public static void downMoneForTimeRide(int RideId, TimeSpan time, int sumToDown)
@@ -215,36 +189,34 @@ namespace DAL
             {
                 if (item.CurrentTime.HasValue)
                 {
-                timeStart = item.CurrentTime.Value;
-                }
-                if (item.CurrentTime.HasValue)
-                {
+                    timeStart = item.CurrentTime.Value;
                     timeEnd = item.CurrentTime.Value;
                 }
-                
+
                 foreach (var i in allRides)
                 {
-                    if(item.RideId==i.RideId)
+                    if (item.RideId == i.RideId)
                     {
-                        timeEnd=timeEnd.Add(i.DuringUsing);
-                        timeEnd= timeEnd.Add(minutes);
-                        timeStart =timeStart-new TimeSpan(0,5,0);
+                        timeEnd = timeEnd.Add(i.DuringUsing);
+                        timeEnd = timeEnd.Add(minutes);
+                        timeStart = timeStart - new TimeSpan(0, 5, 0);
+                        break;
                     }
                 }
                 if (timeRegister >= timeStart && timeRegister <= timeEnd)
                     return false;
             }
             return true;
-           
+
         }
-        public static TimeSpan ChishuvHWithChildren(List<List<UserRide>> userRides, ref int sumRides)
+        public static TimeSpan CalacHoursWithChildren(List<List<UserRide>> userRides, ref int sumRides)
         {
             sumRides = 0;
             TimeSpan timeNow = new TimeSpan();
             timeNow = DateTime.Now.TimeOfDay;
-            TimeSpan endMishmeret = new TimeSpan(15, 0, 0);
-            if (timeNow > endMishmeret)
-                endMishmeret = new TimeSpan(24, 0, 0);
+            TimeSpan endOfShift = new TimeSpan(15, 0, 0);
+            if (timeNow > endOfShift)
+                endOfShift = new TimeSpan(24, 0, 0);
             TimeSpan duringTime = new TimeSpan();
             TimeSpan during = new TimeSpan();
             TimeSpan add = new TimeSpan();
@@ -254,10 +226,10 @@ namespace DAL
             {
                 using (Amusement_ParkEntities2 park = new Amusement_ParkEntities2())
                 {
-                    int degel = 0;
+                    int flag = 0;
                     foreach (var item1 in userRides)
                     {
-                        if(sumTimes>0)
+                        if (sumTimes > 0)
                         {
                             duringTime = during;
                             duringTime = duringTime.Add(add);
@@ -266,16 +238,16 @@ namespace DAL
                         sumTimes++;
                         foreach (var item in item1)
                         {
-                            degel = 0;
-                            Rides ride = DAL.RidesDal.getNumberSeetsToRide(item.RideId);
+                            flag = 0;
+                            Rides ride = DAL.RidesDal.getRide(item.RideId);
                             int numberSeets = ride.NumberSeets;
                             foreach (var time in park.TimeRide)
                             {
-                                if(degel==1)
+                                if (flag == 1)
                                 {
                                     break;
                                 }
-                                if (item.RideId == time.RideId && time.Mone < numberSeets && time.TimeStart > duringTime && time.TimeStart < endMishmeret)
+                                if (item.RideId == time.RideId && time.Mone < numberSeets && time.TimeStart > duringTime && time.TimeStart < endOfShift)
                                 {
                                     item.CurrentTime = time.TimeStart;
                                     if (CheckHours(item))
@@ -283,7 +255,7 @@ namespace DAL
                                         during = time.TimeStart;
                                         add.Add(ride.DuringUsing);
                                         sumRides++;
-                                        degel = 1;
+                                        flag = 1;
                                     }
                                 }
                             }
@@ -299,55 +271,55 @@ namespace DAL
             }
 
         }
-        public static TimeSpan ChishuvH(List<UserRide> userRides, ref int sumRides)
-    {
-        sumRides = 0;
-        TimeSpan timeNow = new TimeSpan();
-        timeNow = DateTime.Now.TimeOfDay;
-        TimeSpan endMishmeret = new TimeSpan(15, 0, 0);
-        if (timeNow > endMishmeret)
-            endMishmeret = new TimeSpan(24, 0, 0);
-        TimeSpan duringTime = new TimeSpan();
-        duringTime = DateTime.Now.TimeOfDay;
-        int degel = 0;
-        try
+        public static TimeSpan CalacHoursForUser(List<UserRide> userRides, ref int sumRides)
         {
-            using (Amusement_ParkEntities2 park = new Amusement_ParkEntities2())
+            sumRides = 0;
+            TimeSpan timeNow = new TimeSpan();
+            timeNow = DateTime.Now.TimeOfDay;
+            TimeSpan endOfShift = new TimeSpan(15, 0, 0);
+            if (timeNow > endOfShift)
+                endOfShift = new TimeSpan(24, 0, 0);
+            TimeSpan duringTime = new TimeSpan();
+            duringTime = DateTime.Now.TimeOfDay;
+            int flag = 0;
+            try
             {
-                foreach (var item in userRides)
+                using (Amusement_ParkEntities2 park = new Amusement_ParkEntities2())
                 {
-                    degel = 0;
-                    Rides ride = DAL.RidesDal.getNumberSeetsToRide(item.RideId);
-                    int numberSeets = ride.NumberSeets;
-                    foreach (var time in park.TimeRide)
+                    foreach (var item in userRides)
                     {
-                        if(degel==1)
+                        flag = 0;
+                        Rides ride = DAL.RidesDal.getRide(item.RideId);
+                        int numberSeets = ride.NumberSeets;
+                        foreach (var time in park.TimeRide)
                         {
-                          break;
-                        }
-                        if (item.RideId == time.RideId && time.Mone < numberSeets && time.TimeStart > duringTime && time.TimeStart < endMishmeret)
-                        {
-                            item.CurrentTime = time.TimeStart;
-                            if (CheckHours(item))
+                            if (flag == 1)
                             {
-                                duringTime = time.TimeStart;
-                                duringTime = duringTime.Add(ride.DuringUsing);
-                                duringTime = duringTime.Add(new TimeSpan(0, 5, 0));
-                                sumRides++;
-                                degel = 1; 
+                                break;
+                            }
+                            if (item.RideId == time.RideId && time.Mone < numberSeets && time.TimeStart > duringTime && time.TimeStart < endOfShift)
+                            {
+                                item.CurrentTime = time.TimeStart;
+                                if (CheckHours(item))
+                                {
+                                    duringTime = time.TimeStart;
+                                    duringTime = duringTime.Add(ride.DuringUsing);
+                                    duringTime = duringTime.Add(new TimeSpan(0, 5, 0));
+                                    sumRides++;
+                                    flag = 1;
+                                }
                             }
                         }
                     }
+                    return duringTime;
                 }
-                return duringTime;
             }
-        }
-        catch
-        {
-            return new TimeSpan();
-        }
+            catch
+            {
+                return new TimeSpan();
+            }
 
-    }
+        }
 
         public static void deleteUserRide(int userRideId)
         {
@@ -358,7 +330,7 @@ namespace DAL
                     UserRide u = park.UserRide.First(a => a.UserRideId == userRideId);
                     foreach (var item in park.TimeRide)
                     {
-                        if(item.RideId==u.RideId && item.TimeStart==u.CurrentTime)
+                        if (item.RideId == u.RideId && item.TimeStart == u.CurrentTime)
                         {
                             item.Mone--;
                         }
@@ -371,6 +343,11 @@ namespace DAL
             {
                 Console.WriteLine("error");
             }
+
+
+
+
+
         }
-}
-}
+    }
+    }

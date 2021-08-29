@@ -76,7 +76,7 @@ namespace BL
 
         public static List<DTO.User> AddUserRide(List<DTO.UserRide> userRide)
         {
-            int degel = 0;
+            int flag = 0;
             List<DAL.Users> users = new List<DAL.Users>();
             foreach (var item in userRide)
             {
@@ -94,9 +94,9 @@ namespace BL
             foreach (var item in users)
             {
                 if (item != null)
-                    degel = 1;
+                    flag = 1;
             }
-            if (degel == 0)
+            if (flag == 0)
             {
                 foreach (var item in userRide)
                 {
@@ -106,7 +106,7 @@ namespace BL
 
             }
 
-            DAL.Rides ride = DAL.RidesDal.getNumberSeetsToRide(userRide[0].RideId);
+            DAL.Rides ride = DAL.RidesDal.getRide(userRide[0].RideId);
             return BL.Convert.UserConvert.ConvertUsersToDTO(users);
 
         }
@@ -130,19 +130,24 @@ namespace BL
             
         }
 
+        public static void deleteUserRide(int userRideId)
+        {
+            DAL.UserRideDal.deleteUserRide(userRideId);
+        }
+
         public static List<DTO.UserRide> Math1(List<DTO.UserRide> userRides)
         {
-            bool degel = true;
+            bool flag = true;
             int userId = userRides[0].UserId;
             List<DAL.UserRide> listNew = new List<DAL.UserRide>();
             foreach (var item in userRides)
             {
                 if (item.UserId != userId)
                 {
-                    degel = false;
+                    flag = false;
                 }
             }
-            if (degel)
+            if (flag)
             {
 
                 List<DAL.UserRide> userRidess = BL.Convert.UserRideConvert.convertUserRidesToDAL(userRides);
@@ -150,15 +155,15 @@ namespace BL
                 TimeSpan t = new TimeSpan();
                 List<List<DAL.UserRide>> results = m.GetCombinationSample(userRidess.ToArray());
                 int sumRides = 0;
-                int kodem = 0;
+                int mostSumRides = 0;
                 List<DAL.UserRide> list = new List<DAL.UserRide>();
                 TimeSpan r = new TimeSpan(24, 0, 0);
                 foreach (var item in results)
                 {
-                    t = DAL.UserRideDal.ChishuvH(item, ref sumRides);
-                    if (t < r && sumRides >= kodem)
+                    t = DAL.UserRideDal.CalacHoursForUser(item, ref sumRides);
+                    if (t < r && sumRides >= mostSumRides)
                     {
-                        kodem = sumRides;
+                        mostSumRides = sumRides;
                         r = t;
                         list = new List<DAL.UserRide>();
                         foreach (var i in item)
@@ -228,16 +233,16 @@ namespace BL
                 listOptions=m.GetCombinationSample(list.ToArray());
                 TimeSpan t = new TimeSpan();
                 int sumRides = 0;
-                int kodem = 0;
+                int mostSumRides = 0;
                 TimeSpan r = new TimeSpan(24, 0, 0);
                 foreach (var item in listOptions)
                 {
-                    t = DAL.UserRideDal.ChishuvHWithChildren(item, ref sumRides);
-                    if (t < r && sumRides >= kodem)
+                    t = DAL.UserRideDal.CalacHoursWithChildren(item, ref sumRides);
+                    if (t < r && sumRides >= mostSumRides)
                     {
 
                         listNew = new List<DAL.UserRide>();
-                        kodem = sumRides;
+                        mostSumRides = sumRides;
                         r = t;
                         foreach (var ii in item)
                         {
@@ -269,10 +274,7 @@ namespace BL
 
         }
 
-        public static void  deleteUserRide(int userRideId)
-        {
-            DAL.UserRideDal.deleteUserRide(userRideId);
-        }
+
        
     }
 }

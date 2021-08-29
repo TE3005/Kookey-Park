@@ -41,10 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Parent.cs" />
     <Compile Include="Ride.cs" />
     <Compile Include="RideVp.cs" />
-    <Compile Include="StandBy.cs" />
     <Compile Include="TimeRide.cs" />
     <Compile Include="Timing.cs" />
     <Compile Include="UserRideDetail.cs" />

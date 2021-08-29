@@ -19,7 +19,7 @@ namespace DAL
         public Nullable<System.TimeSpan> OperatingTime { get; set; }
         public Nullable<int> CountTimings { get; set; }
     
-        public virtual Rides Rides { get; set; }
         public virtual UserRide UserRide { get; set; }
+        public virtual Rides Rides { get; set; }
     }
 }

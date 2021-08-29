@@ -19,6 +19,7 @@ namespace DAL
                     TimeSpan fiveMinutes = new TimeSpan(0, 5, 0);
                     List<Rides> rides = GetAllRides();
                     List<RidesVp> ridesVp = new List<RidesVp>();
+                    int NumMinutes = 0;
                     
                     
                     foreach (var ride in rides)
@@ -45,7 +46,7 @@ namespace DAL
                             }
 
                             if (time.RideId == ride.RideId && time.Mone < ride.NumberSeets && time.TimeStart > timeNow
-                               && time.TimeStart - timeNow <= new TimeSpan(0,7,10)
+                               && time.TimeStart - timeNow <= new TimeSpan(0,7,0)
                                )
                             {
                                 ridesVp.Add(new RidesVp()
@@ -99,14 +100,14 @@ namespace DAL
                 using (Amusement_ParkEntities2 park = new Amusement_ParkEntities2())
                 {
                     TimeSpan timeNow = DateTime.Now.TimeOfDay;
-                    Rides ride = getNumberSeetsToRide(rideId);
+                    Rides ride = getRide(rideId);
                     int sumPlaces = ride.NumberSeets;
-                    TimeSpan endMishmeret = new TimeSpan(16, 0, 0);
-                    if (timeNow > endMishmeret)
-                        endMishmeret = new TimeSpan(24, 0, 0);
+                    TimeSpan endOfShift = new TimeSpan(16, 0, 0);
+                    if (timeNow > endOfShift)
+                        endOfShift = new TimeSpan(24, 0, 0);
                     foreach (var item in park.TimeRide)
                     {
-                        if (item.RideId == ride.RideId && item.TimeStart > timeNow +new TimeSpan(0,10,0)&& item.TimeStart < endMishmeret && sumPlaces - item.Mone > 0)
+                        if (item.RideId == ride.RideId && item.TimeStart > timeNow +new TimeSpan(0,10,0)&& item.TimeStart < endOfShift && sumPlaces - item.Mone > 0)
                         {
                             allTimeRides.Add(item);
                         }
@@ -119,38 +120,11 @@ namespace DAL
                 return null;
             }
         }
-        public static void addTimeRide()
-        {
-            TimeSpan time = new TimeSpan(23, 57, 0);
-            try
-            {
+      
 
-                using (Amusement_ParkEntities2 park = new Amusement_ParkEntities2())
-                {
-
-                    for (TimeSpan t = new TimeSpan(10, 0, 0); t < time; 
-                        t = t.Add(new TimeSpan(0,6,9)))
-                    {
-                        TimeRide ride = new TimeRide();
-                        ride.Mone = 0;
-                        ride.RideId =11;
-                        ride.TimeStart = t;
-                        park.TimeRide.Add(ride);
-
-                    }
-
-                    park.SaveChanges();
-                }
-            }
-            catch (Exception e)
-            {
-
-            }
-        }
         public static List<Rides> GetAllRides()
 
         {
-            //addTimeRide();
             try
             {
                 using (Amusement_ParkEntities2 park = new Amusement_ParkEntities2())
@@ -164,7 +138,7 @@ namespace DAL
             }
 
         }
-        public static Rides getNumberSeetsToRide(int RideId)
+        public static Rides getRide(int RideId)
         {
             try
             {
@@ -193,7 +167,7 @@ namespace DAL
                     TimeSpan timeNow = DateTime.Now.TimeOfDay;
                     foreach (var item in park.TimeRide)
                     {
-                        if (item.TimeStart > timeNow  && item.RideId == ride.RideId && item.Mone < ride.NumberSeets)
+                        if (item.TimeStart > timeNow && item.RideId == ride.RideId && item.Mone < ride.NumberSeets)
                         {
                             return item.TimeStart.TotalSeconds;
                         }
@@ -206,7 +180,8 @@ namespace DAL
                 return -1;
             }
         }
-        public static double SecondsToWaitForRideForAllRides(Rides ride)
+
+        public static double SecondsToWaitForRide2(Rides ride)
         {
             try
             {
@@ -215,7 +190,7 @@ namespace DAL
                     TimeSpan timeNow = DateTime.Now.TimeOfDay;
                     foreach (var item in park.TimeRide)
                     {
-                        if (item.TimeStart > timeNow+ new TimeSpan(0,10,0) && item.RideId == ride.RideId && item.Mone < ride.NumberSeets)
+                        if (item.TimeStart > timeNow + new TimeSpan(0, 10, 0) && item.RideId == ride.RideId && item.Mone < ride.NumberSeets)
                         {
                             return item.TimeStart.TotalSeconds;
                         }
@@ -228,5 +203,7 @@ namespace DAL
                 return -1;
             }
         }
+
+
     }
 }
