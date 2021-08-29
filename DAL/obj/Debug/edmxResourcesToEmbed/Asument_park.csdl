@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Asument_park" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Amusement_ParkEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Parents" EntityType="Asument_park.Parent" />
+    <EntitySet Name="Rides" EntityType="Asument_park.Ride" />
+    <EntitySet Name="Timings" EntityType="Asument_park.Timing" />
+    <EntitySet Name="Users" EntityType="Asument_park.User" />
+    <EntitySet Name="User_Ride" EntityType="Asument_park.User_Ride" />
+    <AssociationSet Name="FK__Users__id_parent__2B3F6F97" Association="Asument_park.FK__Users__id_parent__2B3F6F97">
+      <End Role="Parent" EntitySet="Parents" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Timings__ride_id__2F10007B" Association="Asument_park.FK__Timings__ride_id__2F10007B">
+      <End Role="Ride" EntitySet="Rides" />
+      <End Role="Timing" EntitySet="Timings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User_Ride__ride___2A4B4B5E" Association="Asument_park.FK__User_Ride__ride___2A4B4B5E">
+      <End Role="Ride" EntitySet="Rides" />
+      <End Role="User_Ride" EntitySet="User_Ride" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User_Ride__user___2C3393D0" Association="Asument_park.FK__User_Ride__user___2C3393D0">
+      <End Role="User" EntitySet="Users" />
+      <End Role="User_Ride" EntitySet="User_Ride" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Parent">
+    <Key>
+      <PropertyRef Name="parent_id" />
+    </Key>
+    <Property Name="parent_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="parent_name" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Users" Relationship="Asument_park.FK__Users__id_parent__2B3F6F97" FromRole="Parent" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Ride">
+    <Key>
+      <PropertyRef Name="Id_ride" />
+    </Key>
+    <Property Name="Id_ride" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="image" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="number_seets" Type="Int32" Nullable="false" />
+    <Property Name="during_using" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="age_user" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Timings" Relationship="Asument_park.FK__Timings__ride_id__2F10007B" FromRole="Ride" ToRole="Timing" />
+    <NavigationProperty Name="User_Ride" Relationship="Asument_park.FK__User_Ride__ride___2A4B4B5E" FromRole="Ride" ToRole="User_Ride" />
+  </EntityType>
+  <EntityType Name="Timing">
+    <Key>
+      <PropertyRef Name="id_timing" />
+    </Key>
+    <Property Name="id_timing" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ride_id" Type="Int32" Nullable="false" />
+    <Property Name="operating_time" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Ride" Relationship="Asument_park.FK__Timings__ride_id__2F10007B" FromRole="Timing" ToRole="Ride" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="id_user" />
+    </Key>
+    <Property Name="id_user" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_parent" Type="Int32" />
+    <Property Name="tz" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="number_children" Type="Int32" Nullable="false" />
+    <Property Name="phone" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="born_date" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Parent" Relationship="Asument_park.FK__Users__id_parent__2B3F6F97" FromRole="User" ToRole="Parent" />
+    <NavigationProperty Name="User_Ride" Relationship="Asument_park.FK__User_Ride__user___2C3393D0" FromRole="User" ToRole="User_Ride" />
+  </EntityType>
+  <EntityType Name="User_Ride">
+    <Key>
+      <PropertyRef Name="ride_id" />
+      <PropertyRef Name="user_id" />
+    </Key>
+    <Property Name="ride_id" Type="Int32" Nullable="false" />
+    <Property Name="user_id" Type="Int32" Nullable="false" />
+    <Property Name="current_time" Type="Time" Precision="7" />
+    <Property Name="time_vp" Type="Time" Precision="7" />
+    <NavigationProperty Name="Ride" Relationship="Asument_park.FK__User_Ride__ride___2A4B4B5E" FromRole="User_Ride" ToRole="Ride" />
+    <NavigationProperty Name="User" Relationship="Asument_park.FK__User_Ride__user___2C3393D0" FromRole="User_Ride" ToRole="User" />
+  </EntityType>
+  <Association Name="FK__Users__id_parent__2B3F6F97">
+    <End Type="Asument_park.Parent" Role="Parent" Multiplicity="0..1" />
+    <End Type="Asument_park.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Parent">
+        <PropertyRef Name="parent_id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="id_parent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Timings__ride_id__2F10007B">
+    <End Type="Asument_park.Ride" Role="Ride" Multiplicity="1" />
+    <End Type="Asument_park.Timing" Role="Timing" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ride">
+        <PropertyRef Name="Id_ride" />
+      </Principal>
+      <Dependent Role="Timing">
+        <PropertyRef Name="ride_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User_Ride__ride___2A4B4B5E">
+    <End Type="Asument_park.Ride" Role="Ride" Multiplicity="1" />
+    <End Type="Asument_park.User_Ride" Role="User_Ride" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ride">
+        <PropertyRef Name="Id_ride" />
+      </Principal>
+      <Dependent Role="User_Ride">
+        <PropertyRef Name="ride_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User_Ride__user___2C3393D0">
+    <End Type="Asument_park.User" Role="User" Multiplicity="1" />
+    <End Type="Asument_park.User_Ride" Role="User_Ride" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="User_Ride">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,1581 @@
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\ApplicationInsights.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\API_Park.dll.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\API_Park.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\API_Park.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\csc.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\csc.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\csc.rsp
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\csi.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\csi.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\csi.rsp
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.AppContext.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Console.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.IO.Compression.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.IO.Pipes.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Security.AccessControl.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Security.Claims.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.ValueTuple.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Xml.XPath.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\vbc.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\vbc.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\vbc.rsp
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Antlr3.Runtime.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AI.DependencyCollector.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AI.Web.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AI.WindowsServer.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.ApplicationInsights.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Web.Infrastructure.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Newtonsoft.Json.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Net.Http.Formatting.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Helpers.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Http.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Http.WebHost.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Mvc.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Optimization.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Razor.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.WebPages.Deployment.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.WebPages.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.WebPages.Razor.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\WebGrease.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Newtonsoft.Json.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Net.Http.Formatting.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Helpers.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Http.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Http.WebHost.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Mvc.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Optimization.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Razor.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.WebPages.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.WebPages.Deployment.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.WebPages.Razor.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Antlr3.Runtime.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AI.DependencyCollector.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AI.WindowsServer.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AI.Web.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\obj\Debug\API_Park.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\obj\Debug\API_Park.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\BL.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\DTO.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\BL.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\BL.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\DTO.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\DAL.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\EntityFramework.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\DAL.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\DAL.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\EntityFramework.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Features.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.Options.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Net.Http.Headers.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Buffers.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.ComponentModel.Annotations.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Memory.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Numerics.Vectors.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Runtime.CompilerServices.Unsafe.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Text.Encodings.Web.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Cors.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Http.Cors.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Features.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.Options.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Extensions.Primitives.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Microsoft.Net.Http.Headers.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Buffers.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Memory.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Numerics.Vectors.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Runtime.CompilerServices.Unsafe.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Text.Encodings.Web.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\System.Web.Http.Cors.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Amusement Park.mdf
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\bin\Amusement Park_log.ldf
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\API_Park\obj\Debug\API_Park.csprojResolveAssemblyReference.cache
+C:\FinallProject\API_Park\bin\ApplicationInsights.config
+C:\FinallProject\API_Park\bin\API_Park.dll.config
+C:\FinallProject\API_Park\bin\API_Park.dll
+C:\FinallProject\API_Park\bin\API_Park.pdb
+C:\FinallProject\API_Park\bin\roslyn\csc.exe
+C:\FinallProject\API_Park\bin\roslyn\csc.exe.config
+C:\FinallProject\API_Park\bin\roslyn\csc.rsp
+C:\FinallProject\API_Park\bin\roslyn\csi.exe
+C:\FinallProject\API_Park\bin\roslyn\csi.exe.config
+C:\FinallProject\API_Park\bin\roslyn\csi.rsp
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.Managed.Core.targets
+C:\FinallProject\API_Park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FinallProject\API_Park\bin\roslyn\System.AppContext.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Collections.Immutable.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Console.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\FinallProject\API_Park\bin\roslyn\System.IO.Compression.dll
+C:\FinallProject\API_Park\bin\roslyn\System.IO.FileSystem.dll
+C:\FinallProject\API_Park\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\FinallProject\API_Park\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\FinallProject\API_Park\bin\roslyn\System.IO.Pipes.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Reflection.Metadata.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Security.AccessControl.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Security.Claims.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Security.Principal.Windows.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\FinallProject\API_Park\bin\roslyn\System.ValueTuple.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Xml.XmlDocument.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Xml.XPath.dll
+C:\FinallProject\API_Park\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\FinallProject\API_Park\bin\roslyn\vbc.exe
+C:\FinallProject\API_Park\bin\roslyn\vbc.exe.config
+C:\FinallProject\API_Park\bin\roslyn\vbc.rsp
+C:\FinallProject\API_Park\bin\roslyn\VBCSCompiler.exe
+C:\FinallProject\API_Park\bin\roslyn\VBCSCompiler.exe.config
+C:\FinallProject\API_Park\bin\Microsoft.Win32.Primitives.dll
+C:\FinallProject\API_Park\bin\netstandard.dll
+C:\FinallProject\API_Park\bin\System.AppContext.dll
+C:\FinallProject\API_Park\bin\System.Collections.Concurrent.dll
+C:\FinallProject\API_Park\bin\System.Collections.dll
+C:\FinallProject\API_Park\bin\System.Collections.NonGeneric.dll
+C:\FinallProject\API_Park\bin\System.Collections.Specialized.dll
+C:\FinallProject\API_Park\bin\System.ComponentModel.dll
+C:\FinallProject\API_Park\bin\System.ComponentModel.EventBasedAsync.dll
+C:\FinallProject\API_Park\bin\System.ComponentModel.Primitives.dll
+C:\FinallProject\API_Park\bin\System.ComponentModel.TypeConverter.dll
+C:\FinallProject\API_Park\bin\System.Console.dll
+C:\FinallProject\API_Park\bin\System.Data.Common.dll
+C:\FinallProject\API_Park\bin\System.Diagnostics.Contracts.dll
+C:\FinallProject\API_Park\bin\System.Diagnostics.Debug.dll
+C:\FinallProject\API_Park\bin\System.Diagnostics.FileVersionInfo.dll
+C:\FinallProject\API_Park\bin\System.Diagnostics.Process.dll
+C:\FinallProject\API_Park\bin\System.Diagnostics.StackTrace.dll
+C:\FinallProject\API_Park\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\FinallProject\API_Park\bin\System.Diagnostics.Tools.dll
+C:\FinallProject\API_Park\bin\System.Diagnostics.TraceSource.dll
+C:\FinallProject\API_Park\bin\System.Diagnostics.Tracing.dll
+C:\FinallProject\API_Park\bin\System.Drawing.Primitives.dll
+C:\FinallProject\API_Park\bin\System.Dynamic.Runtime.dll
+C:\FinallProject\API_Park\bin\System.Globalization.Calendars.dll
+C:\FinallProject\API_Park\bin\System.Globalization.dll
+C:\FinallProject\API_Park\bin\System.Globalization.Extensions.dll
+C:\FinallProject\API_Park\bin\System.IO.Compression.dll
+C:\FinallProject\API_Park\bin\System.IO.Compression.ZipFile.dll
+C:\FinallProject\API_Park\bin\System.IO.dll
+C:\FinallProject\API_Park\bin\System.IO.FileSystem.dll
+C:\FinallProject\API_Park\bin\System.IO.FileSystem.DriveInfo.dll
+C:\FinallProject\API_Park\bin\System.IO.FileSystem.Primitives.dll
+C:\FinallProject\API_Park\bin\System.IO.FileSystem.Watcher.dll
+C:\FinallProject\API_Park\bin\System.IO.IsolatedStorage.dll
+C:\FinallProject\API_Park\bin\System.IO.MemoryMappedFiles.dll
+C:\FinallProject\API_Park\bin\System.IO.Pipes.dll
+C:\FinallProject\API_Park\bin\System.IO.UnmanagedMemoryStream.dll
+C:\FinallProject\API_Park\bin\System.Linq.dll
+C:\FinallProject\API_Park\bin\System.Linq.Expressions.dll
+C:\FinallProject\API_Park\bin\System.Linq.Parallel.dll
+C:\FinallProject\API_Park\bin\System.Linq.Queryable.dll
+C:\FinallProject\API_Park\bin\System.Net.Http.dll
+C:\FinallProject\API_Park\bin\System.Net.NameResolution.dll
+C:\FinallProject\API_Park\bin\System.Net.NetworkInformation.dll
+C:\FinallProject\API_Park\bin\System.Net.Ping.dll
+C:\FinallProject\API_Park\bin\System.Net.Primitives.dll
+C:\FinallProject\API_Park\bin\System.Net.Requests.dll
+C:\FinallProject\API_Park\bin\System.Net.Security.dll
+C:\FinallProject\API_Park\bin\System.Net.Sockets.dll
+C:\FinallProject\API_Park\bin\System.Net.WebHeaderCollection.dll
+C:\FinallProject\API_Park\bin\System.Net.WebSockets.Client.dll
+C:\FinallProject\API_Park\bin\System.Net.WebSockets.dll
+C:\FinallProject\API_Park\bin\System.ObjectModel.dll
+C:\FinallProject\API_Park\bin\System.Reflection.dll
+C:\FinallProject\API_Park\bin\System.Reflection.Extensions.dll
+C:\FinallProject\API_Park\bin\System.Reflection.Primitives.dll
+C:\FinallProject\API_Park\bin\System.Resources.Reader.dll
+C:\FinallProject\API_Park\bin\System.Resources.ResourceManager.dll
+C:\FinallProject\API_Park\bin\System.Resources.Writer.dll
+C:\FinallProject\API_Park\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\FinallProject\API_Park\bin\System.Runtime.dll
+C:\FinallProject\API_Park\bin\System.Runtime.Extensions.dll
+C:\FinallProject\API_Park\bin\System.Runtime.Handles.dll
+C:\FinallProject\API_Park\bin\System.Runtime.InteropServices.dll
+C:\FinallProject\API_Park\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\FinallProject\API_Park\bin\System.Runtime.Numerics.dll
+C:\FinallProject\API_Park\bin\System.Runtime.Serialization.Formatters.dll
+C:\FinallProject\API_Park\bin\System.Runtime.Serialization.Json.dll
+C:\FinallProject\API_Park\bin\System.Runtime.Serialization.Primitives.dll
+C:\FinallProject\API_Park\bin\System.Runtime.Serialization.Xml.dll
+C:\FinallProject\API_Park\bin\System.Security.Claims.dll
+C:\FinallProject\API_Park\bin\System.Security.Cryptography.Algorithms.dll
+C:\FinallProject\API_Park\bin\System.Security.Cryptography.Csp.dll
+C:\FinallProject\API_Park\bin\System.Security.Cryptography.Encoding.dll
+C:\FinallProject\API_Park\bin\System.Security.Cryptography.Primitives.dll
+C:\FinallProject\API_Park\bin\System.Security.Cryptography.X509Certificates.dll
+C:\FinallProject\API_Park\bin\System.Security.Principal.dll
+C:\FinallProject\API_Park\bin\System.Security.SecureString.dll
+C:\FinallProject\API_Park\bin\System.Text.Encoding.dll
+C:\FinallProject\API_Park\bin\System.Text.Encoding.Extensions.dll
+C:\FinallProject\API_Park\bin\System.Text.RegularExpressions.dll
+C:\FinallProject\API_Park\bin\System.Threading.dll
+C:\FinallProject\API_Park\bin\System.Threading.Overlapped.dll
+C:\FinallProject\API_Park\bin\System.Threading.Tasks.dll
+C:\FinallProject\API_Park\bin\System.Threading.Tasks.Parallel.dll
+C:\FinallProject\API_Park\bin\System.Threading.Thread.dll
+C:\FinallProject\API_Park\bin\System.Threading.ThreadPool.dll
+C:\FinallProject\API_Park\bin\System.Threading.Timer.dll
+C:\FinallProject\API_Park\bin\System.ValueTuple.dll
+C:\FinallProject\API_Park\bin\System.Xml.ReaderWriter.dll
+C:\FinallProject\API_Park\bin\System.Xml.XDocument.dll
+C:\FinallProject\API_Park\bin\System.Xml.XmlDocument.dll
+C:\FinallProject\API_Park\bin\System.Xml.XmlSerializer.dll
+C:\FinallProject\API_Park\bin\System.Xml.XPath.dll
+C:\FinallProject\API_Park\bin\System.Xml.XPath.XDocument.dll
+C:\FinallProject\API_Park\bin\Antlr3.Runtime.dll
+C:\FinallProject\API_Park\bin\BL.exe
+C:\FinallProject\API_Park\bin\DTO.dll
+C:\FinallProject\API_Park\bin\EntityFramework.dll
+C:\FinallProject\API_Park\bin\EntityFramework.SqlServer.dll
+C:\FinallProject\API_Park\bin\Microsoft.AI.Agent.Intercept.dll
+C:\FinallProject\API_Park\bin\Microsoft.AI.DependencyCollector.dll
+C:\FinallProject\API_Park\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\FinallProject\API_Park\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\FinallProject\API_Park\bin\Microsoft.AI.Web.dll
+C:\FinallProject\API_Park\bin\Microsoft.AI.WindowsServer.dll
+C:\FinallProject\API_Park\bin\Microsoft.ApplicationInsights.dll
+C:\FinallProject\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\FinallProject\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.Options.dll
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.Primitives.dll
+C:\FinallProject\API_Park\bin\Microsoft.Net.Http.Headers.dll
+C:\FinallProject\API_Park\bin\Microsoft.Web.Infrastructure.dll
+C:\FinallProject\API_Park\bin\Newtonsoft.Json.dll
+C:\FinallProject\API_Park\bin\System.Buffers.dll
+C:\FinallProject\API_Park\bin\System.ComponentModel.Annotations.dll
+C:\FinallProject\API_Park\bin\System.Diagnostics.DiagnosticSource.dll
+C:\FinallProject\API_Park\bin\System.Memory.dll
+C:\FinallProject\API_Park\bin\System.Net.Http.Formatting.dll
+C:\FinallProject\API_Park\bin\System.Numerics.Vectors.dll
+C:\FinallProject\API_Park\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\FinallProject\API_Park\bin\System.Text.Encodings.Web.dll
+C:\FinallProject\API_Park\bin\System.Web.Cors.dll
+C:\FinallProject\API_Park\bin\System.Web.Helpers.dll
+C:\FinallProject\API_Park\bin\System.Web.Http.Cors.dll
+C:\FinallProject\API_Park\bin\System.Web.Http.dll
+C:\FinallProject\API_Park\bin\System.Web.Http.WebHost.dll
+C:\FinallProject\API_Park\bin\System.Web.Mvc.dll
+C:\FinallProject\API_Park\bin\System.Web.Optimization.dll
+C:\FinallProject\API_Park\bin\System.Web.Razor.dll
+C:\FinallProject\API_Park\bin\System.Web.WebPages.Deployment.dll
+C:\FinallProject\API_Park\bin\System.Web.WebPages.dll
+C:\FinallProject\API_Park\bin\System.Web.WebPages.Razor.dll
+C:\FinallProject\API_Park\bin\WebGrease.dll
+C:\FinallProject\API_Park\bin\DAL.exe
+C:\FinallProject\API_Park\bin\BL.pdb
+C:\FinallProject\API_Park\bin\BL.exe.config
+C:\FinallProject\API_Park\bin\DTO.pdb
+C:\FinallProject\API_Park\bin\EntityFramework.xml
+C:\FinallProject\API_Park\bin\EntityFramework.SqlServer.xml
+C:\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\FinallProject\API_Park\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.Options.xml
+C:\FinallProject\API_Park\bin\Microsoft.Extensions.Primitives.xml
+C:\FinallProject\API_Park\bin\Microsoft.Net.Http.Headers.xml
+C:\FinallProject\API_Park\bin\System.Buffers.xml
+C:\FinallProject\API_Park\bin\System.Memory.xml
+C:\FinallProject\API_Park\bin\System.Net.Http.Formatting.xml
+C:\FinallProject\API_Park\bin\System.Numerics.Vectors.xml
+C:\FinallProject\API_Park\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\FinallProject\API_Park\bin\System.Text.Encodings.Web.xml
+C:\FinallProject\API_Park\bin\System.Web.Http.xml
+C:\FinallProject\API_Park\bin\System.Web.Http.Cors.xml
+C:\FinallProject\API_Park\bin\Newtonsoft.Json.xml
+C:\FinallProject\API_Park\bin\System.Web.Helpers.xml
+C:\FinallProject\API_Park\bin\System.Web.Http.WebHost.xml
+C:\FinallProject\API_Park\bin\System.Web.Mvc.xml
+C:\FinallProject\API_Park\bin\System.Web.Optimization.xml
+C:\FinallProject\API_Park\bin\System.Web.Razor.xml
+C:\FinallProject\API_Park\bin\System.Web.WebPages.xml
+C:\FinallProject\API_Park\bin\System.Web.WebPages.Deployment.xml
+C:\FinallProject\API_Park\bin\System.Web.WebPages.Razor.xml
+C:\FinallProject\API_Park\bin\Antlr3.Runtime.pdb
+C:\FinallProject\API_Park\bin\System.Diagnostics.DiagnosticSource.xml
+C:\FinallProject\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\FinallProject\API_Park\bin\Microsoft.AI.DependencyCollector.xml
+C:\FinallProject\API_Park\bin\Microsoft.AI.WindowsServer.xml
+C:\FinallProject\API_Park\bin\Microsoft.AI.Web.xml
+C:\FinallProject\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\FinallProject\API_Park\bin\DAL.pdb
+C:\FinallProject\API_Park\bin\DAL.exe.config
+C:\FinallProject\API_Park\obj\Debug\API_Park.csprojAssemblyReference.cache
+C:\FinallProject\API_Park\obj\Debug\API_Park.csproj.CoreCompileInputs.cache
+C:\FinallProject\API_Park\obj\Debug\API_Park.csproj.CopyComplete
+C:\FinallProject\API_Park\obj\Debug\API_Park.dll
+C:\FinallProject\API_Park\obj\Debug\API_Park.pdb
+C:\FinallProject\API_Park\bin\Amusement Park.mdf
+C:\FinallProject\API_Park\bin\Amusement Park_log.ldf
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\ApplicationInsights.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Amusement Park.mdf
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Amusement Park_log.ldf
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\API_Park.dll.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\API_Park.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\API_Park.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\csc.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\csc.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\csc.rsp
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\csi.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\csi.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\csi.rsp
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.AppContext.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Console.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.IO.Compression.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.IO.Pipes.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Security.AccessControl.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Security.Claims.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.ValueTuple.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Xml.XPath.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\vbc.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\vbc.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\vbc.rsp
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Win32.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\netstandard.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.AppContext.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Collections.Concurrent.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Collections.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Collections.NonGeneric.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Collections.Specialized.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.ComponentModel.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.ComponentModel.EventBasedAsync.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.ComponentModel.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.ComponentModel.TypeConverter.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Console.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Data.Common.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.Contracts.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.Debug.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.Process.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.StackTrace.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.TextWriterTraceListener.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.Tools.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.TraceSource.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.Tracing.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Drawing.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Dynamic.Runtime.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Globalization.Calendars.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Globalization.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Globalization.Extensions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.Compression.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.Compression.ZipFile.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.FileSystem.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.FileSystem.DriveInfo.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.FileSystem.Watcher.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.IsolatedStorage.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.MemoryMappedFiles.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.Pipes.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.IO.UnmanagedMemoryStream.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Linq.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Linq.Expressions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Linq.Parallel.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Linq.Queryable.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.Http.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.NameResolution.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.NetworkInformation.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.Ping.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.Requests.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.Security.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.Sockets.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.WebHeaderCollection.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.WebSockets.Client.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.WebSockets.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.ObjectModel.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Reflection.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Reflection.Extensions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Reflection.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Resources.Reader.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Resources.ResourceManager.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Resources.Writer.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.CompilerServices.VisualC.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.Extensions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.Handles.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.InteropServices.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.Numerics.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.Serialization.Formatters.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.Serialization.Json.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.Serialization.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.Serialization.Xml.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Security.Claims.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Security.Cryptography.Csp.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Security.Principal.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Security.SecureString.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Text.Encoding.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Text.Encoding.Extensions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Text.RegularExpressions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Threading.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Threading.Overlapped.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Threading.Tasks.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Threading.Tasks.Parallel.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Threading.Thread.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Threading.ThreadPool.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Threading.Timer.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.ValueTuple.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Xml.ReaderWriter.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Xml.XDocument.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Xml.XmlDocument.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Xml.XmlSerializer.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Xml.XPath.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Xml.XPath.XDocument.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Antlr3.Runtime.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\BL.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\DTO.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\EntityFramework.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AI.DependencyCollector.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AI.Web.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AI.WindowsServer.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.ApplicationInsights.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AspNetCore.Http.Features.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.Options.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.Primitives.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Net.Http.Headers.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Web.Infrastructure.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Newtonsoft.Json.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Buffers.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.ComponentModel.Annotations.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Memory.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.Http.Formatting.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Numerics.Vectors.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.CompilerServices.Unsafe.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Text.Encodings.Web.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Cors.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Helpers.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Http.Cors.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Http.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Http.WebHost.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Mvc.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Optimization.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Razor.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.WebPages.Deployment.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.WebPages.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.WebPages.Razor.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\WebGrease.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\DAL.exe
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\BL.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\BL.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\DTO.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\EntityFramework.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AspNetCore.Http.Features.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.Options.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Extensions.Primitives.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.Net.Http.Headers.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Buffers.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Memory.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Net.Http.Formatting.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Numerics.Vectors.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Runtime.CompilerServices.Unsafe.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Text.Encodings.Web.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Http.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Http.Cors.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Newtonsoft.Json.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Helpers.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Http.WebHost.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Mvc.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Optimization.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.Razor.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.WebPages.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.WebPages.Deployment.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Web.WebPages.Razor.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Antlr3.Runtime.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AI.DependencyCollector.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AI.WindowsServer.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.AI.Web.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\DAL.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\bin\DAL.exe.config
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\obj\Debug\API_Park.csprojAssemblyReference.cache
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\obj\Debug\API_Park.csproj.CoreCompileInputs.cache
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\obj\Debug\API_Park.csproj.CopyComplete
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\obj\Debug\API_Park.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\API_Park\obj\Debug\API_Park.pdb
+F:\FinallProject3\API_Park\obj\Debug\API_Park.csprojAssemblyReference.cache
+F:\FinallProject3\API_Park\obj\Debug\API_Park.dll
+F:\FinallProject3\API_Park\obj\Debug\API_Park.pdb
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\obj\Debug\API_Park.csprojAssemblyReference.cache
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\obj\Debug\API_Park.csproj.CoreCompileInputs.cache
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\obj\Debug\API_Park.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\obj\Debug\API_Park.pdb
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\ApplicationInsights.config
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\API_Park.dll.config
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\API_Park.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\API_Park.pdb
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\csc.exe
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\csc.exe.config
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\csc.rsp
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\csi.exe
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\csi.exe.config
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\csi.rsp
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.AppContext.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Console.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.IO.Compression.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.IO.Pipes.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Security.AccessControl.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Security.Claims.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.ValueTuple.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Xml.XPath.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\vbc.exe
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\vbc.exe.config
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\vbc.rsp
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Win32.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\netstandard.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.AppContext.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Collections.Concurrent.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Collections.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Collections.NonGeneric.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Collections.Specialized.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.ComponentModel.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.ComponentModel.EventBasedAsync.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.ComponentModel.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.ComponentModel.TypeConverter.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Console.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Data.Common.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.Contracts.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.Debug.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.Process.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.StackTrace.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.TextWriterTraceListener.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.Tools.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.TraceSource.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.Tracing.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Drawing.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Dynamic.Runtime.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Globalization.Calendars.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Globalization.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Globalization.Extensions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.Compression.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.Compression.ZipFile.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.FileSystem.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.FileSystem.DriveInfo.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.FileSystem.Watcher.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.IsolatedStorage.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.MemoryMappedFiles.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.Pipes.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.IO.UnmanagedMemoryStream.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Linq.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Linq.Expressions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Linq.Parallel.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Linq.Queryable.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.Http.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.NameResolution.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.NetworkInformation.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.Ping.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.Requests.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.Security.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.Sockets.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.WebHeaderCollection.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.WebSockets.Client.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.WebSockets.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.ObjectModel.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Reflection.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Reflection.Extensions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Reflection.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Resources.Reader.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Resources.ResourceManager.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Resources.Writer.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.VisualC.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.Extensions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.Handles.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.InteropServices.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.Numerics.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.Serialization.Formatters.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.Serialization.Json.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.Serialization.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.Serialization.Xml.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Security.Claims.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Security.Cryptography.Csp.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Security.Principal.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Security.SecureString.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Text.Encoding.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Text.Encoding.Extensions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Text.RegularExpressions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Threading.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Threading.Overlapped.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Threading.Tasks.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Threading.Tasks.Parallel.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Threading.Thread.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Threading.ThreadPool.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Threading.Timer.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.ValueTuple.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Xml.ReaderWriter.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Xml.XDocument.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Xml.XmlDocument.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Xml.XmlSerializer.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Xml.XPath.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Xml.XPath.XDocument.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Antlr3.Runtime.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\BL.exe
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\DTO.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\EntityFramework.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AI.DependencyCollector.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AI.Web.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AI.WindowsServer.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.ApplicationInsights.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Features.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.Options.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.Primitives.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Net.Http.Headers.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Web.Infrastructure.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Newtonsoft.Json.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Buffers.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.ComponentModel.Annotations.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Memory.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.Http.Formatting.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.Unsafe.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Text.Encodings.Web.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Cors.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Helpers.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Http.Cors.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Http.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Http.WebHost.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Mvc.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Optimization.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Razor.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.WebPages.Deployment.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.WebPages.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.WebPages.Razor.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\WebGrease.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\DAL.exe
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\BL.pdb
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\BL.exe.config
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\DTO.pdb
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\EntityFramework.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Features.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.Options.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Extensions.Primitives.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.Net.Http.Headers.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Buffers.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Memory.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Net.Http.Formatting.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Numerics.Vectors.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.Unsafe.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Text.Encodings.Web.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Http.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Http.Cors.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Newtonsoft.Json.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Helpers.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Http.WebHost.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Mvc.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Optimization.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.Razor.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.WebPages.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.WebPages.Deployment.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Web.WebPages.Razor.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Antlr3.Runtime.pdb
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AI.DependencyCollector.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AI.WindowsServer.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.AI.Web.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\DAL.pdb
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\bin\DAL.exe.config
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\API_Park\obj\Debug\API_Park.csproj.CopyComplete
+D:\FinallProject3\API_Park\bin\ApplicationInsights.config
+D:\FinallProject3\API_Park\bin\API_Park.dll.config
+D:\FinallProject3\API_Park\bin\API_Park.dll
+D:\FinallProject3\API_Park\bin\API_Park.pdb
+D:\FinallProject3\API_Park\bin\roslyn\csc.exe
+D:\FinallProject3\API_Park\bin\roslyn\csc.exe.config
+D:\FinallProject3\API_Park\bin\roslyn\csc.rsp
+D:\FinallProject3\API_Park\bin\roslyn\csi.exe
+D:\FinallProject3\API_Park\bin\roslyn\csi.exe.config
+D:\FinallProject3\API_Park\bin\roslyn\csi.rsp
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FinallProject3\API_Park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FinallProject3\API_Park\bin\roslyn\System.AppContext.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Collections.Immutable.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Console.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.IO.Compression.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.IO.FileSystem.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.IO.Pipes.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Reflection.Metadata.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Security.AccessControl.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Security.Claims.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.ValueTuple.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Xml.XPath.dll
+D:\FinallProject3\API_Park\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FinallProject3\API_Park\bin\roslyn\vbc.exe
+D:\FinallProject3\API_Park\bin\roslyn\vbc.exe.config
+D:\FinallProject3\API_Park\bin\roslyn\vbc.rsp
+D:\FinallProject3\API_Park\bin\roslyn\VBCSCompiler.exe
+D:\FinallProject3\API_Park\bin\roslyn\VBCSCompiler.exe.config
+D:\FinallProject3\API_Park\bin\Microsoft.Win32.Primitives.dll
+D:\FinallProject3\API_Park\bin\netstandard.dll
+D:\FinallProject3\API_Park\bin\System.AppContext.dll
+D:\FinallProject3\API_Park\bin\System.Collections.Concurrent.dll
+D:\FinallProject3\API_Park\bin\System.Collections.dll
+D:\FinallProject3\API_Park\bin\System.Collections.NonGeneric.dll
+D:\FinallProject3\API_Park\bin\System.Collections.Specialized.dll
+D:\FinallProject3\API_Park\bin\System.ComponentModel.dll
+D:\FinallProject3\API_Park\bin\System.ComponentModel.EventBasedAsync.dll
+D:\FinallProject3\API_Park\bin\System.ComponentModel.Primitives.dll
+D:\FinallProject3\API_Park\bin\System.ComponentModel.TypeConverter.dll
+D:\FinallProject3\API_Park\bin\System.Console.dll
+D:\FinallProject3\API_Park\bin\System.Data.Common.dll
+D:\FinallProject3\API_Park\bin\System.Diagnostics.Contracts.dll
+D:\FinallProject3\API_Park\bin\System.Diagnostics.Debug.dll
+D:\FinallProject3\API_Park\bin\System.Diagnostics.FileVersionInfo.dll
+D:\FinallProject3\API_Park\bin\System.Diagnostics.Process.dll
+D:\FinallProject3\API_Park\bin\System.Diagnostics.StackTrace.dll
+D:\FinallProject3\API_Park\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\FinallProject3\API_Park\bin\System.Diagnostics.Tools.dll
+D:\FinallProject3\API_Park\bin\System.Diagnostics.TraceSource.dll
+D:\FinallProject3\API_Park\bin\System.Diagnostics.Tracing.dll
+D:\FinallProject3\API_Park\bin\System.Drawing.Primitives.dll
+D:\FinallProject3\API_Park\bin\System.Dynamic.Runtime.dll
+D:\FinallProject3\API_Park\bin\System.Globalization.Calendars.dll
+D:\FinallProject3\API_Park\bin\System.Globalization.dll
+D:\FinallProject3\API_Park\bin\System.Globalization.Extensions.dll
+D:\FinallProject3\API_Park\bin\System.IO.Compression.dll
+D:\FinallProject3\API_Park\bin\System.IO.Compression.ZipFile.dll
+D:\FinallProject3\API_Park\bin\System.IO.dll
+D:\FinallProject3\API_Park\bin\System.IO.FileSystem.dll
+D:\FinallProject3\API_Park\bin\System.IO.FileSystem.DriveInfo.dll
+D:\FinallProject3\API_Park\bin\System.IO.FileSystem.Primitives.dll
+D:\FinallProject3\API_Park\bin\System.IO.FileSystem.Watcher.dll
+D:\FinallProject3\API_Park\bin\System.IO.IsolatedStorage.dll
+D:\FinallProject3\API_Park\bin\System.IO.MemoryMappedFiles.dll
+D:\FinallProject3\API_Park\bin\System.IO.Pipes.dll
+D:\FinallProject3\API_Park\bin\System.IO.UnmanagedMemoryStream.dll
+D:\FinallProject3\API_Park\bin\System.Linq.dll
+D:\FinallProject3\API_Park\bin\System.Linq.Expressions.dll
+D:\FinallProject3\API_Park\bin\System.Linq.Parallel.dll
+D:\FinallProject3\API_Park\bin\System.Linq.Queryable.dll
+D:\FinallProject3\API_Park\bin\System.Net.Http.dll
+D:\FinallProject3\API_Park\bin\System.Net.NameResolution.dll
+D:\FinallProject3\API_Park\bin\System.Net.NetworkInformation.dll
+D:\FinallProject3\API_Park\bin\System.Net.Ping.dll
+D:\FinallProject3\API_Park\bin\System.Net.Primitives.dll
+D:\FinallProject3\API_Park\bin\System.Net.Requests.dll
+D:\FinallProject3\API_Park\bin\System.Net.Security.dll
+D:\FinallProject3\API_Park\bin\System.Net.Sockets.dll
+D:\FinallProject3\API_Park\bin\System.Net.WebHeaderCollection.dll
+D:\FinallProject3\API_Park\bin\System.Net.WebSockets.Client.dll
+D:\FinallProject3\API_Park\bin\System.Net.WebSockets.dll
+D:\FinallProject3\API_Park\bin\System.ObjectModel.dll
+D:\FinallProject3\API_Park\bin\System.Reflection.dll
+D:\FinallProject3\API_Park\bin\System.Reflection.Extensions.dll
+D:\FinallProject3\API_Park\bin\System.Reflection.Primitives.dll
+D:\FinallProject3\API_Park\bin\System.Resources.Reader.dll
+D:\FinallProject3\API_Park\bin\System.Resources.ResourceManager.dll
+D:\FinallProject3\API_Park\bin\System.Resources.Writer.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.Extensions.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.Handles.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.InteropServices.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.Numerics.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.Serialization.Formatters.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.Serialization.Json.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.Serialization.Primitives.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.Serialization.Xml.dll
+D:\FinallProject3\API_Park\bin\System.Security.Claims.dll
+D:\FinallProject3\API_Park\bin\System.Security.Cryptography.Algorithms.dll
+D:\FinallProject3\API_Park\bin\System.Security.Cryptography.Csp.dll
+D:\FinallProject3\API_Park\bin\System.Security.Cryptography.Encoding.dll
+D:\FinallProject3\API_Park\bin\System.Security.Cryptography.Primitives.dll
+D:\FinallProject3\API_Park\bin\System.Security.Cryptography.X509Certificates.dll
+D:\FinallProject3\API_Park\bin\System.Security.Principal.dll
+D:\FinallProject3\API_Park\bin\System.Security.SecureString.dll
+D:\FinallProject3\API_Park\bin\System.Text.Encoding.dll
+D:\FinallProject3\API_Park\bin\System.Text.Encoding.Extensions.dll
+D:\FinallProject3\API_Park\bin\System.Text.RegularExpressions.dll
+D:\FinallProject3\API_Park\bin\System.Threading.dll
+D:\FinallProject3\API_Park\bin\System.Threading.Overlapped.dll
+D:\FinallProject3\API_Park\bin\System.Threading.Tasks.dll
+D:\FinallProject3\API_Park\bin\System.Threading.Tasks.Parallel.dll
+D:\FinallProject3\API_Park\bin\System.Threading.Thread.dll
+D:\FinallProject3\API_Park\bin\System.Threading.ThreadPool.dll
+D:\FinallProject3\API_Park\bin\System.Threading.Timer.dll
+D:\FinallProject3\API_Park\bin\System.ValueTuple.dll
+D:\FinallProject3\API_Park\bin\System.Xml.ReaderWriter.dll
+D:\FinallProject3\API_Park\bin\System.Xml.XDocument.dll
+D:\FinallProject3\API_Park\bin\System.Xml.XmlDocument.dll
+D:\FinallProject3\API_Park\bin\System.Xml.XmlSerializer.dll
+D:\FinallProject3\API_Park\bin\System.Xml.XPath.dll
+D:\FinallProject3\API_Park\bin\System.Xml.XPath.XDocument.dll
+D:\FinallProject3\API_Park\bin\Antlr3.Runtime.dll
+D:\FinallProject3\API_Park\bin\BL.exe
+D:\FinallProject3\API_Park\bin\DTO.dll
+D:\FinallProject3\API_Park\bin\EntityFramework.dll
+D:\FinallProject3\API_Park\bin\EntityFramework.SqlServer.dll
+D:\FinallProject3\API_Park\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FinallProject3\API_Park\bin\Microsoft.AI.DependencyCollector.dll
+D:\FinallProject3\API_Park\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FinallProject3\API_Park\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FinallProject3\API_Park\bin\Microsoft.AI.Web.dll
+D:\FinallProject3\API_Park\bin\Microsoft.AI.WindowsServer.dll
+D:\FinallProject3\API_Park\bin\Microsoft.ApplicationInsights.dll
+D:\FinallProject3\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\FinallProject3\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.Options.dll
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.Primitives.dll
+D:\FinallProject3\API_Park\bin\Microsoft.Net.Http.Headers.dll
+D:\FinallProject3\API_Park\bin\Microsoft.Web.Infrastructure.dll
+D:\FinallProject3\API_Park\bin\Newtonsoft.Json.dll
+D:\FinallProject3\API_Park\bin\System.Buffers.dll
+D:\FinallProject3\API_Park\bin\System.ComponentModel.Annotations.dll
+D:\FinallProject3\API_Park\bin\System.Diagnostics.DiagnosticSource.dll
+D:\FinallProject3\API_Park\bin\System.Memory.dll
+D:\FinallProject3\API_Park\bin\System.Net.Http.Formatting.dll
+D:\FinallProject3\API_Park\bin\System.Numerics.Vectors.dll
+D:\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\FinallProject3\API_Park\bin\System.Text.Encodings.Web.dll
+D:\FinallProject3\API_Park\bin\System.Web.Cors.dll
+D:\FinallProject3\API_Park\bin\System.Web.Helpers.dll
+D:\FinallProject3\API_Park\bin\System.Web.Http.Cors.dll
+D:\FinallProject3\API_Park\bin\System.Web.Http.dll
+D:\FinallProject3\API_Park\bin\System.Web.Http.WebHost.dll
+D:\FinallProject3\API_Park\bin\System.Web.Mvc.dll
+D:\FinallProject3\API_Park\bin\System.Web.Optimization.dll
+D:\FinallProject3\API_Park\bin\System.Web.Razor.dll
+D:\FinallProject3\API_Park\bin\System.Web.WebPages.Deployment.dll
+D:\FinallProject3\API_Park\bin\System.Web.WebPages.dll
+D:\FinallProject3\API_Park\bin\System.Web.WebPages.Razor.dll
+D:\FinallProject3\API_Park\bin\WebGrease.dll
+D:\FinallProject3\API_Park\bin\DAL.exe
+D:\FinallProject3\API_Park\bin\BL.pdb
+D:\FinallProject3\API_Park\bin\BL.exe.config
+D:\FinallProject3\API_Park\bin\DTO.pdb
+D:\FinallProject3\API_Park\bin\EntityFramework.xml
+D:\FinallProject3\API_Park\bin\EntityFramework.SqlServer.xml
+D:\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.Options.xml
+D:\FinallProject3\API_Park\bin\Microsoft.Extensions.Primitives.xml
+D:\FinallProject3\API_Park\bin\Microsoft.Net.Http.Headers.xml
+D:\FinallProject3\API_Park\bin\System.Buffers.xml
+D:\FinallProject3\API_Park\bin\System.Memory.xml
+D:\FinallProject3\API_Park\bin\System.Net.Http.Formatting.xml
+D:\FinallProject3\API_Park\bin\System.Numerics.Vectors.xml
+D:\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\FinallProject3\API_Park\bin\System.Text.Encodings.Web.xml
+D:\FinallProject3\API_Park\bin\System.Web.Http.xml
+D:\FinallProject3\API_Park\bin\System.Web.Http.Cors.xml
+D:\FinallProject3\API_Park\bin\Newtonsoft.Json.xml
+D:\FinallProject3\API_Park\bin\System.Web.Helpers.xml
+D:\FinallProject3\API_Park\bin\System.Web.Http.WebHost.xml
+D:\FinallProject3\API_Park\bin\System.Web.Mvc.xml
+D:\FinallProject3\API_Park\bin\System.Web.Optimization.xml
+D:\FinallProject3\API_Park\bin\System.Web.Razor.xml
+D:\FinallProject3\API_Park\bin\System.Web.WebPages.xml
+D:\FinallProject3\API_Park\bin\System.Web.WebPages.Deployment.xml
+D:\FinallProject3\API_Park\bin\System.Web.WebPages.Razor.xml
+D:\FinallProject3\API_Park\bin\Antlr3.Runtime.pdb
+D:\FinallProject3\API_Park\bin\System.Diagnostics.DiagnosticSource.xml
+D:\FinallProject3\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\FinallProject3\API_Park\bin\Microsoft.AI.DependencyCollector.xml
+D:\FinallProject3\API_Park\bin\Microsoft.AI.WindowsServer.xml
+D:\FinallProject3\API_Park\bin\Microsoft.AI.Web.xml
+D:\FinallProject3\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FinallProject3\API_Park\bin\DAL.pdb
+D:\FinallProject3\API_Park\bin\DAL.exe.config
+D:\FinallProject3\API_Park\obj\Debug\API_Park.csprojResolveAssemblyReference.cache
+D:\FinallProject3\API_Park\obj\Debug\API_Park.csproj.CoreCompileInputs.cache
+D:\FinallProject3\API_Park\obj\Debug\API_Park.dll
+D:\FinallProject3\API_Park\obj\Debug\API_Park.pdb
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\ApplicationInsights.config
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\API_Park.dll.config
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\API_Park.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\API_Park.pdb
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\csc.exe
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\csc.exe.config
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\csc.rsp
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\csi.exe
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\csi.exe.config
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\csi.rsp
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.AppContext.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Console.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.IO.Compression.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.IO.Pipes.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Security.Claims.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.ValueTuple.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Xml.XPath.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\vbc.exe
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\vbc.exe.config
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\vbc.rsp
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\VBCSCompiler.exe
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Win32.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\netstandard.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.AppContext.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Collections.Concurrent.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Collections.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Collections.NonGeneric.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Collections.Specialized.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.ComponentModel.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.ComponentModel.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.ComponentModel.TypeConverter.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Console.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Data.Common.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.Contracts.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.Debug.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.Process.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.StackTrace.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.Tools.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.TraceSource.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.Tracing.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Drawing.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Dynamic.Runtime.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Globalization.Calendars.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Globalization.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Globalization.Extensions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.Compression.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.Compression.ZipFile.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.FileSystem.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.FileSystem.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.FileSystem.Watcher.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.IsolatedStorage.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.MemoryMappedFiles.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.Pipes.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Linq.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Linq.Expressions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Linq.Parallel.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Linq.Queryable.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.Http.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.NameResolution.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.NetworkInformation.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.Ping.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.Requests.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.Security.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.Sockets.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.WebHeaderCollection.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.WebSockets.Client.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.WebSockets.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.ObjectModel.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Reflection.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Reflection.Extensions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Reflection.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Resources.Reader.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Resources.ResourceManager.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Resources.Writer.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.Extensions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.Handles.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.InteropServices.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.Numerics.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.Serialization.Formatters.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.Serialization.Json.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.Serialization.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.Serialization.Xml.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Security.Claims.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Security.Cryptography.Algorithms.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Security.Cryptography.Csp.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Security.Cryptography.Encoding.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Security.Cryptography.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Security.Principal.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Security.SecureString.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Text.Encoding.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Text.Encoding.Extensions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Text.RegularExpressions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Threading.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Threading.Overlapped.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Threading.Tasks.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Threading.Tasks.Parallel.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Threading.Thread.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Threading.ThreadPool.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Threading.Timer.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.ValueTuple.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Xml.ReaderWriter.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Xml.XDocument.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Xml.XmlDocument.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Xml.XmlSerializer.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Xml.XPath.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Xml.XPath.XDocument.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Antlr3.Runtime.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\BL.exe
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\DTO.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\EntityFramework.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\EntityFramework.SqlServer.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AI.Web.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.ApplicationInsights.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.Options.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.Primitives.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Net.Http.Headers.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Newtonsoft.Json.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Buffers.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.ComponentModel.Annotations.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Memory.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.Http.Formatting.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Numerics.Vectors.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Text.Encodings.Web.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Cors.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Helpers.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Http.Cors.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Http.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Http.WebHost.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Mvc.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Optimization.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Razor.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.WebPages.Deployment.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.WebPages.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.WebPages.Razor.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\WebGrease.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\DAL.exe
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\BL.pdb
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\BL.exe.config
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\DTO.pdb
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\EntityFramework.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\EntityFramework.SqlServer.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.Options.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Extensions.Primitives.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.Net.Http.Headers.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Buffers.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Memory.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Net.Http.Formatting.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Numerics.Vectors.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Text.Encodings.Web.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Http.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Http.Cors.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Newtonsoft.Json.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Helpers.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Http.WebHost.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Mvc.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Optimization.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.Razor.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.WebPages.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.WebPages.Deployment.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Web.WebPages.Razor.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Antlr3.Runtime.pdb
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.AI.Web.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\DAL.pdb
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\bin\DAL.exe.config
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\obj\Debug\API_Park.csprojResolveAssemblyReference.cache
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\obj\Debug\API_Park.csproj.CoreCompileInputs.cache
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\obj\Debug\API_Park.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\API_Park\obj\Debug\API_Park.pdb
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\ApplicationInsights.config
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\API_Park.dll.config
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\API_Park.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\API_Park.pdb
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\csc.exe
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\csc.exe.config
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\csc.rsp
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\csi.exe
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\csi.exe.config
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\csi.rsp
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.Managed.Core.targets
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.AppContext.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Collections.Immutable.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Console.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.IO.Compression.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.IO.FileSystem.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.IO.Pipes.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Reflection.Metadata.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Security.AccessControl.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Security.Claims.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Security.Principal.Windows.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.ValueTuple.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Xml.XmlDocument.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Xml.XPath.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\vbc.exe
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\vbc.exe.config
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\vbc.rsp
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\VBCSCompiler.exe
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\roslyn\VBCSCompiler.exe.config
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Win32.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\netstandard.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.AppContext.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Collections.Concurrent.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Collections.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Collections.NonGeneric.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Collections.Specialized.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.ComponentModel.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.ComponentModel.EventBasedAsync.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.ComponentModel.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.ComponentModel.TypeConverter.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Console.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Data.Common.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.Contracts.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.Debug.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.FileVersionInfo.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.Process.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.StackTrace.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.Tools.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.TraceSource.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.Tracing.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Drawing.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Dynamic.Runtime.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Globalization.Calendars.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Globalization.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Globalization.Extensions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.Compression.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.Compression.ZipFile.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.FileSystem.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.FileSystem.DriveInfo.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.FileSystem.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.FileSystem.Watcher.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.IsolatedStorage.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.MemoryMappedFiles.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.Pipes.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.IO.UnmanagedMemoryStream.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Linq.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Linq.Expressions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Linq.Parallel.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Linq.Queryable.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.Http.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.NameResolution.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.NetworkInformation.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.Ping.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.Requests.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.Security.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.Sockets.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.WebHeaderCollection.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.WebSockets.Client.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.WebSockets.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.ObjectModel.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Reflection.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Reflection.Extensions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Reflection.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Resources.Reader.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Resources.ResourceManager.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Resources.Writer.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.Extensions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.Handles.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.InteropServices.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.Numerics.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.Serialization.Formatters.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.Serialization.Json.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.Serialization.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.Serialization.Xml.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Security.Claims.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Security.Cryptography.Algorithms.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Security.Cryptography.Csp.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Security.Cryptography.Encoding.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Security.Cryptography.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Security.Cryptography.X509Certificates.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Security.Principal.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Security.SecureString.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Text.Encoding.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Text.Encoding.Extensions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Text.RegularExpressions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Threading.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Threading.Overlapped.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Threading.Tasks.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Threading.Tasks.Parallel.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Threading.Thread.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Threading.ThreadPool.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Threading.Timer.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.ValueTuple.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Xml.ReaderWriter.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Xml.XDocument.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Xml.XmlDocument.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Xml.XmlSerializer.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Xml.XPath.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Xml.XPath.XDocument.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Antlr3.Runtime.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\BL.exe
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\DTO.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\EntityFramework.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\EntityFramework.SqlServer.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AI.Agent.Intercept.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AI.DependencyCollector.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AI.Web.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AI.WindowsServer.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.ApplicationInsights.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.Options.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.Primitives.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Net.Http.Headers.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Web.Infrastructure.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Newtonsoft.Json.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Buffers.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.ComponentModel.Annotations.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.DiagnosticSource.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Memory.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.Http.Formatting.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Numerics.Vectors.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Text.Encodings.Web.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Cors.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Helpers.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Http.Cors.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Http.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Http.WebHost.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Mvc.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Optimization.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Razor.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.WebPages.Deployment.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.WebPages.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.WebPages.Razor.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\WebGrease.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\DAL.exe
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\BL.pdb
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\BL.exe.config
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\DTO.pdb
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\EntityFramework.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\EntityFramework.SqlServer.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.Options.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Extensions.Primitives.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.Net.Http.Headers.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Buffers.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Memory.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Net.Http.Formatting.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Numerics.Vectors.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Text.Encodings.Web.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Http.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Http.Cors.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Newtonsoft.Json.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Helpers.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Http.WebHost.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Mvc.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Optimization.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.Razor.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.WebPages.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.WebPages.Deployment.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Web.WebPages.Razor.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Antlr3.Runtime.pdb
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\System.Diagnostics.DiagnosticSource.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AI.DependencyCollector.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AI.WindowsServer.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.AI.Web.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\DAL.pdb
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\bin\DAL.exe.config
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\obj\Debug\API_Park.csprojAssemblyReference.cache
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\obj\Debug\API_Park.csproj.CoreCompileInputs.cache
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\obj\Debug\API_Park.csproj.CopyComplete
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\obj\Debug\API_Park.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\API_Park\obj\Debug\API_Park.pdb

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Amusement_ParkModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Parent">
+    <Key>
+      <PropertyRef Name="ParentId" />
+    </Key>
+    <Property Name="ParentId" Type="Int32" Nullable="false" />
+    <Property Name="ParentName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Users" Relationship="Self.FK__Users__UserId__1DE57479" FromRole="Parent" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Rides">
+    <Key>
+      <PropertyRef Name="RideId" />
+    </Key>
+    <Property Name="RideId" Type="Int32" Nullable="false" />
+    <Property Name="RideName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Image" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NumberSeets" Type="Int32" Nullable="false" />
+    <Property Name="DuringUsing" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="UserRide" Relationship="Self.Fk2" FromRole="Rides" ToRole="UserRide" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="ParentId" Type="Int32" />
+    <Property Name="Tz" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NumberChildren" Type="Int32" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Parent" Relationship="Self.FK__Users__UserId__1DE57479" FromRole="Users" ToRole="Parent" />
+    <NavigationProperty Name="UserRide" Relationship="Self.Fk1" FromRole="Users" ToRole="UserRide" />
+  </EntityType>
+  <EntityType Name="UserRide">
+    <Key>
+      <PropertyRef Name="UserId" />
+      <PropertyRef Name="RideId" />
+      <PropertyRef Name="CurrentTime" />
+      <PropertyRef Name="TimeVp" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="RideId" Type="Int32" Nullable="false" />
+    <Property Name="CurrentTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="TimeVp" Type="Time" Nullable="false" Precision="7" />
+    <NavigationProperty Name="Rides" Relationship="Self.Fk2" FromRole="UserRide" ToRole="Rides" />
+    <NavigationProperty Name="Users" Relationship="Self.Fk1" FromRole="UserRide" ToRole="Users" />
+  </EntityType>
+  <Association Name="FK__Users__UserId__1DE57479">
+    <End Role="Parent" Type="Self.Parent" Multiplicity="1" />
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Parent">
+        <PropertyRef Name="ParentId" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk2">
+    <End Role="Rides" Type="Self.Rides" Multiplicity="1" />
+    <End Role="UserRide" Type="Self.UserRide" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rides">
+        <PropertyRef Name="RideId" />
+      </Principal>
+      <Dependent Role="UserRide">
+        <PropertyRef Name="RideId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk1">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="UserRide" Type="Self.UserRide" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="UserRide">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Amusement_ParkEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Parent" EntityType="Self.Parent" />
+    <EntitySet Name="Rides" EntityType="Self.Rides" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+    <EntitySet Name="UserRide" EntityType="Self.UserRide" />
+    <AssociationSet Name="FK__Users__UserId__1DE57479" Association="Self.FK__Users__UserId__1DE57479">
+      <End Role="Parent" EntitySet="Parent" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="Fk2" Association="Self.Fk2">
+      <End Role="Rides" EntitySet="Rides" />
+      <End Role="UserRide" EntitySet="UserRide" />
+    </AssociationSet>
+    <AssociationSet Name="Fk1" Association="Self.Fk1">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserRide" EntitySet="UserRide" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

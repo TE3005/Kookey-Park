@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Asument_park.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Parent">
+    <Key>
+      <PropertyRef Name="parent_id" />
+    </Key>
+    <Property Name="parent_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="parent_name" Type="nchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Rides">
+    <Key>
+      <PropertyRef Name="Id_ride" />
+    </Key>
+    <Property Name="Id_ride" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nchar" MaxLength="10" />
+    <Property Name="image" Type="image" />
+    <Property Name="number_seets" Type="int" Nullable="false" />
+    <Property Name="during_using" Type="time" Precision="7" Nullable="false" />
+    <Property Name="age_user" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Timings">
+    <Key>
+      <PropertyRef Name="id_timing" />
+    </Key>
+    <Property Name="id_timing" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ride_id" Type="int" Nullable="false" />
+    <Property Name="operating_time" Type="datetime" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Y:\תשפ\1\תמר כהן\C#\YEAR2\FINALLPROJECT\DAL\AMUSEMENT PARK.MDF.dbo.User_Ride' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="User_Ride">
+    <Key>
+      <PropertyRef Name="ride_id" />
+      <PropertyRef Name="user_id" />
+    </Key>
+    <Property Name="ride_id" Type="int" Nullable="false" />
+    <Property Name="user_id" Type="int" Nullable="false" />
+    <Property Name="current_time" Type="time" Precision="7" />
+    <Property Name="time_vp" Type="time" Precision="7" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="id_user" />
+    </Key>
+    <Property Name="id_user" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_parent" Type="int" />
+    <Property Name="tz" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="number_children" Type="int" Nullable="false" />
+    <Property Name="phone" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="born_date" Type="date" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Timings__ride_id__2F10007B">
+    <End Role="Rides" Type="Self.Rides" Multiplicity="1" />
+    <End Role="Timings" Type="Self.Timings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rides">
+        <PropertyRef Name="Id_ride" />
+      </Principal>
+      <Dependent Role="Timings">
+        <PropertyRef Name="ride_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User_Ride__ride___2A4B4B5E">
+    <End Role="Rides" Type="Self.Rides" Multiplicity="1" />
+    <End Role="User_Ride" Type="Self.User_Ride" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rides">
+        <PropertyRef Name="Id_ride" />
+      </Principal>
+      <Dependent Role="User_Ride">
+        <PropertyRef Name="ride_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User_Ride__user___2C3393D0">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="User_Ride" Type="Self.User_Ride" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="User_Ride">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Users__id_parent__2B3F6F97">
+    <End Role="Parent" Type="Self.Parent" Multiplicity="0..1" />
+    <End Role="Users" Type="Self.Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Parent">
+        <PropertyRef Name="parent_id" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="id_parent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Asument_parkStoreContainer">
+    <EntitySet Name="Parent" EntityType="Self.Parent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rides" EntityType="Self.Rides" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Timings" EntityType="Self.Timings" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User_Ride" EntityType="Self.User_Ride" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [User_Ride].[ride_id] AS [ride_id], 
+    [User_Ride].[user_id] AS [user_id], 
+    [User_Ride].[current_time] AS [current_time], 
+    [User_Ride].[time_vp] AS [time_vp]
+    FROM [dbo].[User_Ride] AS [User_Ride]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__Timings__ride_id__2F10007B" Association="Self.FK__Timings__ride_id__2F10007B">
+      <End Role="Rides" EntitySet="Rides" />
+      <End Role="Timings" EntitySet="Timings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User_Ride__ride___2A4B4B5E" Association="Self.FK__User_Ride__ride___2A4B4B5E">
+      <End Role="Rides" EntitySet="Rides" />
+      <End Role="User_Ride" EntitySet="User_Ride" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User_Ride__user___2C3393D0" Association="Self.FK__User_Ride__user___2C3393D0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="User_Ride" EntitySet="User_Ride" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Users__id_parent__2B3F6F97" Association="Self.FK__Users__id_parent__2B3F6F97">
+      <End Role="Parent" EntitySet="Parent" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

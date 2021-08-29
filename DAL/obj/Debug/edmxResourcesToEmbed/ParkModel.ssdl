@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Parent">
+    <Key>
+      <PropertyRef Name="parentId" />
+    </Key>
+    <Property Name="parentId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="parentName" Type="nchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Rides">
+    <Key>
+      <PropertyRef Name="rideId" />
+    </Key>
+    <Property Name="rideId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nchar" MaxLength="10" />
+    <Property Name="image" Type="image" />
+    <Property Name="numberSeets" Type="int" Nullable="false" />
+    <Property Name="duringUsing" Type="time" Precision="7" Nullable="false" />
+    <Property Name="ageUser" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Y:\תשפ\1\רבקי אייזנשטיין\FINALLPROJECT3\DAL\AMUSEMENT PARK.MDF.dbo.User_Ride' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="User_Ride">
+    <Key>
+      <PropertyRef Name="rideId" />
+      <PropertyRef Name="userId" />
+    </Key>
+    <Property Name="rideId" Type="int" Nullable="false" />
+    <Property Name="userId" Type="int" Nullable="false" />
+    <Property Name="currentTime" Type="time" Precision="7" />
+    <Property Name="timeVp" Type="time" Precision="7" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Y:\תשפ\1\רבקי אייזנשטיין\FINALLPROJECT3\DAL\AMUSEMENT PARK.MDF.dbo.UserRide' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="UserRide">
+    <Key>
+      <PropertyRef Name="rideId" />
+      <PropertyRef Name="userId" />
+    </Key>
+    <Property Name="rideId" Type="int" Nullable="false" />
+    <Property Name="userId" Type="int" Nullable="false" />
+    <Property Name="currentTime" Type="time" Precision="7" />
+    <Property Name="timeVp" Type="time" Precision="7" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="userId" />
+    </Key>
+    <Property Name="userId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="parentId" Type="int" />
+    <Property Name="tz" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="number_children" Type="int" Nullable="false" />
+    <Property Name="phone" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="bornDate" Type="date" />
+  </EntityType>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="Parent" EntityType="Self.Parent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rides" EntityType="Self.Rides" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Table" EntityType="Self.Table" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User_Ride" EntityType="Self.User_Ride" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [User_Ride].[rideId] AS [rideId], 
+    [User_Ride].[userId] AS [userId], 
+    [User_Ride].[currentTime] AS [currentTime], 
+    [User_Ride].[timeVp] AS [timeVp]
+    FROM [dbo].[User_Ride] AS [User_Ride]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="UserRide" EntityType="Self.UserRide" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [UserRide].[rideId] AS [rideId], 
+    [UserRide].[userId] AS [userId], 
+    [UserRide].[currentTime] AS [currentTime], 
+    [UserRide].[timeVp] AS [timeVp]
+    FROM [dbo].[UserRide] AS [UserRide]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

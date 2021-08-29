@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Asument_parkStoreContainer" CdmEntityContainer="Amusement_ParkEntities1">
+    <EntitySetMapping Name="Parents">
+      <EntityTypeMapping TypeName="Asument_park.Parent">
+        <MappingFragment StoreEntitySet="Parent">
+          <ScalarProperty Name="parent_name" ColumnName="parent_name" />
+          <ScalarProperty Name="parent_id" ColumnName="parent_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rides">
+      <EntityTypeMapping TypeName="Asument_park.Ride">
+        <MappingFragment StoreEntitySet="Rides">
+          <ScalarProperty Name="age_user" ColumnName="age_user" />
+          <ScalarProperty Name="during_using" ColumnName="during_using" />
+          <ScalarProperty Name="number_seets" ColumnName="number_seets" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id_ride" ColumnName="Id_ride" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Timings">
+      <EntityTypeMapping TypeName="Asument_park.Timing">
+        <MappingFragment StoreEntitySet="Timings">
+          <ScalarProperty Name="operating_time" ColumnName="operating_time" />
+          <ScalarProperty Name="ride_id" ColumnName="ride_id" />
+          <ScalarProperty Name="id_timing" ColumnName="id_timing" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Asument_park.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="born_date" ColumnName="born_date" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="number_children" ColumnName="number_children" />
+          <ScalarProperty Name="tz" ColumnName="tz" />
+          <ScalarProperty Name="id_parent" ColumnName="id_parent" />
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User_Ride">
+      <EntityTypeMapping TypeName="Asument_park.User_Ride">
+        <MappingFragment StoreEntitySet="User_Ride">
+          <ScalarProperty Name="time_vp" ColumnName="time_vp" />
+          <ScalarProperty Name="current_time" ColumnName="current_time" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="ride_id" ColumnName="ride_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

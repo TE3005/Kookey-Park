@@ -1,0 +1,45 @@
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\DTO\bin\Debug\DTO.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\DTO\obj\Debug\DTO.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject\DTO\obj\Debug\DTO.pdb
+C:\FinallProject\DTO\bin\Debug\DTO.dll
+C:\FinallProject\DTO\bin\Debug\DTO.pdb
+C:\FinallProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\FinallProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\FinallProject\DTO\obj\Debug\DTO.dll
+C:\FinallProject\DTO\obj\Debug\DTO.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\DTO\bin\Debug\DTO.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\DTO\obj\Debug\DTO.dll
+Y:\תשפ\1\תמר כהן\c#\year2\FinallProject2\DTO\obj\Debug\DTO.pdb
+F:\FinallProject3\DTO\bin\Debug\DTO.dll
+F:\FinallProject3\DTO\bin\Debug\DTO.pdb
+F:\FinallProject3\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\FinallProject3\DTO\obj\Debug\DTO.dll
+F:\FinallProject3\DTO\obj\Debug\DTO.pdb
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\DTO\bin\Debug\DTO.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\DTO\obj\Debug\DTO.dll
+Y:\תשפ\1\רבקי אייזנשטיין\FinallProject3\DTO\obj\Debug\DTO.pdb
+D:\FinallProject3\DTO\bin\Debug\DTO.dll
+D:\FinallProject3\DTO\bin\Debug\DTO.pdb
+D:\FinallProject3\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\FinallProject3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\FinallProject3\DTO\obj\Debug\DTO.dll
+D:\FinallProject3\DTO\obj\Debug\DTO.pdb
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\DTO\bin\Debug\DTO.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\DTO\bin\Debug\DTO.pdb
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\DTO\obj\Debug\DTO.dll
+D:\Users\משפחת כהן\Documents\__TAMAR\_Asument Park\server\FinallProject3\DTO\obj\Debug\DTO.pdb
+D:\פרויקט\פרויקט מעודכן\FinallProject3\DTO\bin\Debug\DTO.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\DTO\bin\Debug\DTO.pdb
+D:\פרויקט\פרויקט מעודכן\FinallProject3\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\פרויקט\פרויקט מעודכן\FinallProject3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\פרויקט\פרויקט מעודכן\FinallProject3\DTO\obj\Debug\DTO.dll
+D:\פרויקט\פרויקט מעודכן\FinallProject3\DTO\obj\Debug\DTO.pdb

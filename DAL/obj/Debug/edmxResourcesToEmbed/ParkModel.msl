@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Amusement_ParkEntities">
+    <EntitySetMapping Name="Parents">
+      <EntityTypeMapping TypeName="Model.Parent">
+        <MappingFragment StoreEntitySet="Parent">
+          <ScalarProperty Name="parentName" ColumnName="parentName" />
+          <ScalarProperty Name="parentId" ColumnName="parentId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rides">
+      <EntityTypeMapping TypeName="Model.Ride">
+        <MappingFragment StoreEntitySet="Rides">
+          <ScalarProperty Name="ageUser" ColumnName="ageUser" />
+          <ScalarProperty Name="duringUsing" ColumnName="duringUsing" />
+          <ScalarProperty Name="numberSeets" ColumnName="numberSeets" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="rideId" ColumnName="rideId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tables">
+      <EntityTypeMapping TypeName="Model.Table">
+        <MappingFragment StoreEntitySet="Table">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Model.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="bornDate" ColumnName="bornDate" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="number_children" ColumnName="number_children" />
+          <ScalarProperty Name="tz" ColumnName="tz" />
+          <ScalarProperty Name="parentId" ColumnName="parentId" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User_Ride">
+      <EntityTypeMapping TypeName="Model.User_Ride">
+        <MappingFragment StoreEntitySet="User_Ride">
+          <ScalarProperty Name="timeVp" ColumnName="timeVp" />
+          <ScalarProperty Name="currentTime" ColumnName="currentTime" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="rideId" ColumnName="rideId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserRides">
+      <EntityTypeMapping TypeName="Model.UserRide">
+        <MappingFragment StoreEntitySet="UserRide">
+          <ScalarProperty Name="timeVp" ColumnName="timeVp" />
+          <ScalarProperty Name="currentTime" ColumnName="currentTime" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="rideId" ColumnName="rideId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

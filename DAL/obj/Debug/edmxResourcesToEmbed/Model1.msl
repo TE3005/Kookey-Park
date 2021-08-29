@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Amusement_ParkModel1StoreContainer" CdmEntityContainer="Amusement_ParkEntities">
+    <EntitySetMapping Name="Parent">
+      <EntityTypeMapping TypeName="Amusement_ParkModel1.Parent">
+        <MappingFragment StoreEntitySet="Parent">
+          <ScalarProperty Name="ParentId" ColumnName="ParentId" />
+          <ScalarProperty Name="ParentName" ColumnName="ParentName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rides">
+      <EntityTypeMapping TypeName="Amusement_ParkModel1.Rides">
+        <MappingFragment StoreEntitySet="Rides">
+          <ScalarProperty Name="RideId" ColumnName="RideId" />
+          <ScalarProperty Name="RideName" ColumnName="RideName" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="NumberSeets" ColumnName="NumberSeets" />
+          <ScalarProperty Name="DuringUsing" ColumnName="DuringUsing" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Amusement_ParkModel1.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="ParentId" ColumnName="ParentId" />
+          <ScalarProperty Name="Tz" ColumnName="Tz" />
+          <ScalarProperty Name="NumberChildren" ColumnName="NumberChildren" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserRide">
+      <EntityTypeMapping TypeName="Amusement_ParkModel1.UserRide">
+        <MappingFragment StoreEntitySet="UserRide">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="RideId" ColumnName="RideId" />
+          <ScalarProperty Name="CurrentTime" ColumnName="CurrentTime" />
+          <ScalarProperty Name="TimeVp" ColumnName="TimeVp" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

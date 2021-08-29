@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Amusement_ParkModelStoreContainer" CdmEntityContainer="Amusement_ParkEntities2">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="Amusement_ParkModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Amusement_ParkModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="NumberChildren" ColumnName="NumberChildren" />
+          <ScalarProperty Name="Tz" ColumnName="Tz" />
+          <ScalarProperty Name="ParentId" ColumnName="ParentId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserRide">
+      <EntityTypeMapping TypeName="Amusement_ParkModel.UserRide">
+        <MappingFragment StoreEntitySet="UserRide">
+          <ScalarProperty Name="TimeVp" ColumnName="TimeVp" />
+          <ScalarProperty Name="CurrentTime" ColumnName="CurrentTime" />
+          <ScalarProperty Name="RideId" ColumnName="RideId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserRideId" ColumnName="UserRideId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StandBy">
+      <EntityTypeMapping TypeName="Amusement_ParkModel.StandBy">
+        <MappingFragment StoreEntitySet="StandBy">
+          <ScalarProperty Name="StandById" ColumnName="StandById" />
+          <ScalarProperty Name="NumberTimings" ColumnName="NumberTimings" />
+          <ScalarProperty Name="RideId" ColumnName="RideId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Timings">
+      <EntityTypeMapping TypeName="Amusement_ParkModel.Timings">
+        <MappingFragment StoreEntitySet="Timings">
+          <ScalarProperty Name="CountTimings" ColumnName="CountTimings" />
+          <ScalarProperty Name="OperatingTime" ColumnName="OperatingTime" />
+          <ScalarProperty Name="UserRideId" ColumnName="UserRideId" />
+          <ScalarProperty Name="TimingId" ColumnName="TimingId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RidesVp">
+      <EntityTypeMapping TypeName="Amusement_ParkModel.RidesVp">
+        <MappingFragment StoreEntitySet="RidesVp">
+          <ScalarProperty Name="CurrentTime" ColumnName="CurrentTime" />
+          <ScalarProperty Name="Mone" ColumnName="Mone" />
+          <ScalarProperty Name="AgeUser" ColumnName="AgeUser" />
+          <ScalarProperty Name="DuringUsing" ColumnName="DuringUsing" />
+          <ScalarProperty Name="NumberSeets" ColumnName="NumberSeets" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="RideName" ColumnName="RideName" />
+          <ScalarProperty Name="RideId" ColumnName="RideId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rides">
+      <EntityTypeMapping TypeName="Amusement_ParkModel.Rides">
+        <MappingFragment StoreEntitySet="Rides">
+          <ScalarProperty Name="AgeUser" ColumnName="AgeUser" />
+          <ScalarProperty Name="DuringUsing" ColumnName="DuringUsing" />
+          <ScalarProperty Name="NumberSeets" ColumnName="NumberSeets" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="RideName" ColumnName="RideName" />
+          <ScalarProperty Name="RideId" ColumnName="RideId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TimeRide">
+      <EntityTypeMapping TypeName="Amusement_ParkModel.TimeRide">
+        <MappingFragment StoreEntitySet="TimeRide">
+          <ScalarProperty Name="Mone" ColumnName="Mone" />
+          <ScalarProperty Name="TimeStart" ColumnName="TimeStart" />
+          <ScalarProperty Name="RideId" ColumnName="RideId" />
+          <ScalarProperty Name="TimeRideId" ColumnName="TimeRideId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

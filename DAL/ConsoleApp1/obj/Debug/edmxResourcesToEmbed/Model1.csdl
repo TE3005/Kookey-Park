@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="A_SchoolModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="T_AbsenceInGirls">
+    <Key>
+      <PropertyRef Name="IdAbsenceInGirls" />
+    </Key>
+    <Property Name="IdAbsenceInGirls" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AbsenceTypeId_" Type="Int32" />
+    <Property Name="GirlId" Type="Int32" />
+    <Property Name="IsConfirmed" Type="Boolean" />
+    <Property Name="ProfessionId" Type="Int32" />
+    <NavigationProperty Name="T_AbsenceTypes" Relationship="Self.FK_T_AbsenceInGirls_To_T_AbsenceTypes" FromRole="T_AbsenceInGirls" ToRole="T_AbsenceTypes" />
+    <NavigationProperty Name="T_Girls" Relationship="Self.FK_T_AbsenceInGirls_To_T_Girls" FromRole="T_AbsenceInGirls" ToRole="T_Girls" />
+    <NavigationProperty Name="T_Professions" Relationship="Self.FK_T_AbsenceInGirls_ToT_Professions" FromRole="T_AbsenceInGirls" ToRole="T_Professions" />
+  </EntityType>
+  <EntityType Name="T_AbsenceTypes">
+    <Key>
+      <PropertyRef Name="IdAbsenceType" />
+    </Key>
+    <Property Name="IdAbsenceType" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameAbsenceType_" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="T_AbsenceInGirls" Relationship="Self.FK_T_AbsenceInGirls_To_T_AbsenceTypes" FromRole="T_AbsenceTypes" ToRole="T_AbsenceInGirls" />
+  </EntityType>
+  <EntityType Name="T_ClassRooms">
+    <Key>
+      <PropertyRef Name="IdClassRoom" />
+    </Key>
+    <Property Name="IdClassRoom" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ClassRoomName" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="T_Girls" Relationship="Self.FK_T_Girls_To_T_ClassRooms" FromRole="T_ClassRooms" ToRole="T_Girls" />
+    <NavigationProperty Name="T_TeacherInClassRoom" Relationship="Self.FK_T_TeacherInClassRoom_To_T_ClassRooms" FromRole="T_ClassRooms" ToRole="T_TeacherInClassRoom" />
+  </EntityType>
+  <EntityType Name="T_Girls">
+    <Key>
+      <PropertyRef Name="IdGirl" />
+    </Key>
+    <Property Name="IdGirl" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GirlName" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="ClassRoomId" Type="Int32" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="T_AbsenceInGirls" Relationship="Self.FK_T_AbsenceInGirls_To_T_Girls" FromRole="T_Girls" ToRole="T_AbsenceInGirls" />
+    <NavigationProperty Name="T_ClassRooms" Relationship="Self.FK_T_Girls_To_T_ClassRooms" FromRole="T_Girls" ToRole="T_ClassRooms" />
+  </EntityType>
+  <EntityType Name="T_Professions">
+    <Key>
+      <PropertyRef Name="IdProfession" />
+    </Key>
+    <Property Name="IdProfession" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProfessionsName" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="T_AbsenceInGirls" Relationship="Self.FK_T_AbsenceInGirls_ToT_Professions" FromRole="T_Professions" ToRole="T_AbsenceInGirls" />
+    <NavigationProperty Name="T_Teachers" Relationship="Self.FK_T_Teachers_To_T_Professions" FromRole="T_Professions" ToRole="T_Teachers" />
+  </EntityType>
+  <EntityType Name="T_TeacherInClassRoom">
+    <Key>
+      <PropertyRef Name="IdTeacherInClassRoom" />
+    </Key>
+    <Property Name="IdTeacherInClassRoom" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TeacherId" Type="Int32" Nullable="false" />
+    <Property Name="ClassRoomId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="T_ClassRooms" Relationship="Self.FK_T_TeacherInClassRoom_To_T_ClassRooms" FromRole="T_TeacherInClassRoom" ToRole="T_ClassRooms" />
+    <NavigationProperty Name="T_Teachers" Relationship="Self.FK_T_TeacherInClassRoom_To_T_Teachers" FromRole="T_TeacherInClassRoom" ToRole="T_Teachers" />
+  </EntityType>
+  <EntityType Name="T_Teachers">
+    <Key>
+      <PropertyRef Name="IdTeacher" />
+    </Key>
+    <Property Name="IdTeacher" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="ProfessionId" Type="Int32" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="Tz" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Precision="3" />
+    <Property Name="age" Type="Int32" />
+    <Property Name="DAteOfBirth11" Type="DateTime" Precision="3" />
+    <Property Name="age11" Type="Int32" />
+    <NavigationProperty Name="T_Professions" Relationship="Self.FK_T_Teachers_To_T_Professions" FromRole="T_Teachers" ToRole="T_Professions" />
+    <NavigationProperty Name="T_TeacherInClassRoom" Relationship="Self.FK_T_TeacherInClassRoom_To_T_Teachers" FromRole="T_Teachers" ToRole="T_TeacherInClassRoom" />
+  </EntityType>
+  <Association Name="FK_T_AbsenceInGirls_To_T_AbsenceTypes">
+    <End Role="T_AbsenceTypes" Type="Self.T_AbsenceTypes" Multiplicity="0..1" />
+    <End Role="T_AbsenceInGirls" Type="Self.T_AbsenceInGirls" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="T_AbsenceTypes">
+        <PropertyRef Name="IdAbsenceType" />
+      </Principal>
+      <Dependent Role="T_AbsenceInGirls">
+        <PropertyRef Name="AbsenceTypeId_" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_T_AbsenceInGirls_To_T_Girls">
+    <End Role="T_Girls" Type="Self.T_Girls" Multiplicity="0..1" />
+    <End Role="T_AbsenceInGirls" Type="Self.T_AbsenceInGirls" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="T_Girls">
+        <PropertyRef Name="IdGirl" />
+      </Principal>
+      <Dependent Role="T_AbsenceInGirls">
+        <PropertyRef Name="GirlId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_T_AbsenceInGirls_ToT_Professions">
+    <End Role="T_Professions" Type="Self.T_Professions" Multiplicity="0..1" />
+    <End Role="T_AbsenceInGirls" Type="Self.T_AbsenceInGirls" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="T_Professions">
+        <PropertyRef Name="IdProfession" />
+      </Principal>
+      <Dependent Role="T_AbsenceInGirls">
+        <PropertyRef Name="ProfessionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_T_Girls_To_T_ClassRooms">
+    <End Role="T_ClassRooms" Type="Self.T_ClassRooms" Multiplicity="0..1" />
+    <End Role="T_Girls" Type="Self.T_Girls" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="T_ClassRooms">
+        <PropertyRef Name="IdClassRoom" />
+      </Principal>
+      <Dependent Role="T_Girls">
+        <PropertyRef Name="ClassRoomId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_T_TeacherInClassRoom_To_T_ClassRooms">
+    <End Role="T_ClassRooms" Type="Self.T_ClassRooms" Multiplicity="1" />
+    <End Role="T_TeacherInClassRoom" Type="Self.T_TeacherInClassRoom" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="T_ClassRooms">
+        <PropertyRef Name="IdClassRoom" />
+      </Principal>
+      <Dependent Role="T_TeacherInClassRoom">
+        <PropertyRef Name="ClassRoomId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_T_Teachers_To_T_Professions">
+    <End Role="T_Professions" Type="Self.T_Professions" Multiplicity="0..1" />
+    <End Role="T_Teachers" Type="Self.T_Teachers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="T_Professions">
+        <PropertyRef Name="IdProfession" />
+      </Principal>
+      <Dependent Role="T_Teachers">
+        <PropertyRef Name="ProfessionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_T_TeacherInClassRoom_To_T_Teachers">
+    <End Role="T_Teachers" Type="Self.T_Teachers" Multiplicity="1" />
+    <End Role="T_TeacherInClassRoom" Type="Self.T_TeacherInClassRoom" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="T_Teachers">
+        <PropertyRef Name="IdTeacher" />
+      </Principal>
+      <Dependent Role="T_TeacherInClassRoom">
+        <PropertyRef Name="TeacherId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="A_SchoolEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="T_AbsenceInGirls" EntityType="Self.T_AbsenceInGirls" />
+    <EntitySet Name="T_AbsenceTypes" EntityType="Self.T_AbsenceTypes" />
+    <EntitySet Name="T_ClassRooms" EntityType="Self.T_ClassRooms" />
+    <EntitySet Name="T_Girls" EntityType="Self.T_Girls" />
+    <EntitySet Name="T_Professions" EntityType="Self.T_Professions" />
+    <EntitySet Name="T_TeacherInClassRoom" EntityType="Self.T_TeacherInClassRoom" />
+    <EntitySet Name="T_Teachers" EntityType="Self.T_Teachers" />
+    <AssociationSet Name="FK_T_AbsenceInGirls_To_T_AbsenceTypes" Association="Self.FK_T_AbsenceInGirls_To_T_AbsenceTypes">
+      <End Role="T_AbsenceTypes" EntitySet="T_AbsenceTypes" />
+      <End Role="T_AbsenceInGirls" EntitySet="T_AbsenceInGirls" />
+    </AssociationSet>
+    <AssociationSet Name="FK_T_AbsenceInGirls_To_T_Girls" Association="Self.FK_T_AbsenceInGirls_To_T_Girls">
+      <End Role="T_Girls" EntitySet="T_Girls" />
+      <End Role="T_AbsenceInGirls" EntitySet="T_AbsenceInGirls" />
+    </AssociationSet>
+    <AssociationSet Name="FK_T_AbsenceInGirls_ToT_Professions" Association="Self.FK_T_AbsenceInGirls_ToT_Professions">
+      <End Role="T_Professions" EntitySet="T_Professions" />
+      <End Role="T_AbsenceInGirls" EntitySet="T_AbsenceInGirls" />
+    </AssociationSet>
+    <AssociationSet Name="FK_T_Girls_To_T_ClassRooms" Association="Self.FK_T_Girls_To_T_ClassRooms">
+      <End Role="T_ClassRooms" EntitySet="T_ClassRooms" />
+      <End Role="T_Girls" EntitySet="T_Girls" />
+    </AssociationSet>
+    <AssociationSet Name="FK_T_TeacherInClassRoom_To_T_ClassRooms" Association="Self.FK_T_TeacherInClassRoom_To_T_ClassRooms">
+      <End Role="T_ClassRooms" EntitySet="T_ClassRooms" />
+      <End Role="T_TeacherInClassRoom" EntitySet="T_TeacherInClassRoom" />
+    </AssociationSet>
+    <AssociationSet Name="FK_T_Teachers_To_T_Professions" Association="Self.FK_T_Teachers_To_T_Professions">
+      <End Role="T_Professions" EntitySet="T_Professions" />
+      <End Role="T_Teachers" EntitySet="T_Teachers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_T_TeacherInClassRoom_To_T_Teachers" Association="Self.FK_T_TeacherInClassRoom_To_T_Teachers">
+      <End Role="T_Teachers" EntitySet="T_Teachers" />
+      <End Role="T_TeacherInClassRoom" EntitySet="T_TeacherInClassRoom" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

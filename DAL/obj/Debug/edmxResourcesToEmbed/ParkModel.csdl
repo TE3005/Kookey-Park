@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Amusement_ParkEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Parents" EntityType="Model.Parent" />
+    <EntitySet Name="Rides" EntityType="Model.Ride" />
+    <EntitySet Name="Tables" EntityType="Model.Table" />
+    <EntitySet Name="Users" EntityType="Model.User" />
+    <EntitySet Name="User_Ride" EntityType="Model.User_Ride" />
+    <EntitySet Name="UserRides" EntityType="Model.UserRide" />
+  </EntityContainer>
+  <EntityType Name="Parent">
+    <Key>
+      <PropertyRef Name="parentId" />
+    </Key>
+    <Property Name="parentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="parentName" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Ride">
+    <Key>
+      <PropertyRef Name="rideId" />
+    </Key>
+    <Property Name="rideId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="image" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="numberSeets" Type="Int32" Nullable="false" />
+    <Property Name="duringUsing" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="ageUser" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="userId" />
+    </Key>
+    <Property Name="userId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="parentId" Type="Int32" />
+    <Property Name="tz" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="number_children" Type="Int32" Nullable="false" />
+    <Property Name="phone" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="bornDate" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="User_Ride">
+    <Key>
+      <PropertyRef Name="rideId" />
+      <PropertyRef Name="userId" />
+    </Key>
+    <Property Name="rideId" Type="Int32" Nullable="false" />
+    <Property Name="userId" Type="Int32" Nullable="false" />
+    <Property Name="currentTime" Type="Time" Precision="7" />
+    <Property Name="timeVp" Type="Time" Precision="7" />
+  </EntityType>
+  <EntityType Name="UserRide">
+    <Key>
+      <PropertyRef Name="rideId" />
+      <PropertyRef Name="userId" />
+    </Key>
+    <Property Name="rideId" Type="Int32" Nullable="false" />
+    <Property Name="userId" Type="Int32" Nullable="false" />
+    <Property Name="currentTime" Type="Time" Precision="7" />
+    <Property Name="timeVp" Type="Time" Precision="7" />
+  </EntityType>
+</Schema>
